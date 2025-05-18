@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Telex",
+    "bias": "Neutral",
+    "rss_url": "https://telex.hu/rss"
+  },
+  {
+    "name": "Mandiner",
+    "bias": "Right",
+    "rss_url": "https://mandiner.hu/rss"
+  },
+  {
+    "name": "Origo",
+    "bias": "Right",
+    "rss_url": "https://www.origo.hu/publicapi/hu/rss/origo/articles"
+  },
+  {
+    "name": "444",
+    "bias": "Left",
+    "rss_url": "https://444.hu/feed"
+  },
+  {
+    "name": "24.hu",
+    "bias": "Left",
+    "rss_url": "https://24.hu/feed"
+  },
+  {
+    "name": "BorsOnline",
+    "bias": "Neutral",
+    "rss_url": "https://borsonline.hu/publicapi/hu/rss/bors/articles"
+  },
+  {
+    "name": "HVG",
+    "bias": "Left",
+    "rss_url": "https://hvg.hu/rss"
+  },
+  {
+    "name": "Index",
+    "bias": "Left",
+    "rss_url": "https://index.hu/24ora/rss/"
+  },
+  {
+    "name": "Népszava",
+    "bias": "Left",
+    "rss_url": "https://nepszava.hu/rss"
+  },
+  {
+    "name": "PestiSrácok",
+    "bias": "Right",
+    "rss_url": "https://pestisracok.hu/feed/"
+  },
+  {
+    "name": "VálaszOnline",
+    "bias": "Neutral",
+    "rss_url": "https://valaszonline.hu/feed/"
+  },
+  {
+    "name": "Portfolio",
+    "bias": "Left",
+    "rss_url": "https://portfolio.hu/rss/all.xml"
+  },
+  {
+    "name": "ZAOL",
+    "rss_url": "https://zaol.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "FEOL",
+    "rss_url": "https://feol.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Dunakanyar Régió",
+    "rss_url": "https://www.dunakanyarregio.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Délmagyar",
+    "rss_url": "https://delmagyar.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "DUOL",
+    "rss_url": "https://duol.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Demokreta",
+    "rss_url": "https://demokrata.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Világgazdaság",
+    "rss_url": "https://www.vg.hu/publicapi/hu/rss/vilaggazdasag/articles",
+    "bias": "Right"
+  },
+  {
+    "name": "BAON",
+    "rss_url": "https://www.baon.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "BAMA",
+    "rss_url": "http://www.bama.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "BEOL",
+    "rss_url": "http://www.beol.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "BOON",
+    "rss_url": "http://www.boon.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "Kisalföld",
+    "rss_url": "http://www.kisalfold.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "HAON",
+    "rss_url": "http://www.haon.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "HEOL",
+    "rss_url": "http://www.heol.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "Szoljon",
+    "rss_url": "http://www.szoljon.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "KEMMA",
+    "rss_url": "http://www.kemma.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "NOOL",
+    "rss_url": "http://www.nool.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "Sonline",
+    "rss_url": "http://www.sonline.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "SZON",
+    "rss_url": "http://www.szon.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "TEOL",
+    "rss_url": "http://www.teol.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "VAOL",
+    "rss_url": "http://www.vaol.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "VEOL",
+    "rss_url": "http://www.veol.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "ripost",
+    "rss_url": "https://ripost.hu/feed",
+    "bias": "Right"
+  },
+  {
+    "name": "888",
+    "rss_url": "https://archivum.888.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Metropol",
+    "rss_url": "https://metropol.hu/publicapi/hu/rss/metropol/articles",
+    "bias": "Right"
+  },
+  {
+    "name": "Magyar Hírlap",
+    "rss_url": "https://www.magyarhirlap.hu/rss",
+    "bias": "Right"
+  },
+  {
+    "name": "Tények",
+    "rss_url": "https://tenyek.hu/publicapi/hu/rss",
+    "bias": "Right"
+  },
+  {
+    "name": "Figyelo",
+    "rss_url": "https://figyelo.hu/feed/",
+    "bias": "Right"
+  },
+  {
+    "name": "Átlátszó",
+    "bias": "Neutral",
+    "rss_url": "https://atlatszo.hu/feed/"
+  },
+  {
+    "name": "Blikk",
+    "bias": "Neutral",
+    "rss_url": "https://www.blikk.hu/feed"
+  },
+  {
+    "name": "Direkt36",
+    "bias": "Left",
+    "rss_url": "https://www.direkt36.hu/feed/"
+  },
+  {
+    "name": "Euronews (HU)",
+    "bias": "Neutral",
+    "rss_url": "https://hu.euronews.com/rss"
+  },
+  {
+    "name": "Infostart",
+    "bias": "Neutral",
+    "rss_url": "https://infostart.hu/24ora/rss/"
+  },
+  {
+    "name": "Mérce",
+    "bias": "Left",
+    "rss_url": "https://merce.hu/feed/"
+  },
+  {
+    "name": "Economx",
+    "bias": "Neutral",
+    "rss_url": "https://www.economx.hu/feed/mindencikk.xml"
+  },
+  {
+    "name": "Magyar Narancs",
+    "bias": "Left",
+    "rss_url": "https://magyarnarancs.hu/rss"
+  },
+  {
+    "name": "Nyugat",
+    "bias": "Left",
+    "rss_url": "https://www.nyugat.hu/rss"
+  },
+  {
+    "name": "RTL",
+    "bias": "Neutral",
+    "rss_url": "https://rss.rtl.hu/"
+  },
+  {
+    "name": "G7",
+    "bias": "Neutral",
+    "rss_url": "https://g7.hu/feed/"
+  }
+]

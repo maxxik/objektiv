@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Match the background color in the HTML */
+}
+
+header {
+    background: #fff;
+    color: #000; /* Adjust text color for better contrast */
+    padding: 1rem 0;
+    text-align: center;
+}
+
+main {
+    padding: 1rem;
+}
+
+.cluster {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+}
+
+.cluster h2 {
+    margin: 0 0 0.5rem;
+    font-weight: bold;
+    color: #000; /* Dark text */
+}
+
+.article {
+    margin-left: 1rem;
+}
+
+.article a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.article a:hover {
+    text-decoration: underline;
+}
+
+.article-summary {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0.5rem 0;
+}
+
+.article-outlet {
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: #333;
+}
+
+.article-bias {
+    font-size: 0.85rem;
+    color: #888;
+    font-style: italic;
+}
+
+.toggle-button {
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.toggle-button:hover {
+    background-color: #0056b3;
+}
+
+.articles-container {
+    margin-left: 1rem;
+    border-left: 2px solid #ccc;
+    padding-left: 1rem;
+}
+
+.bias-bar {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0;
+    height: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.bias-bar .left {
+    flex: 1;
+    background-color: #cce5ff; /* Shaded red */
+}
+
+.bias-bar .center {
+    flex: 1;
+    background-color: #fff; /* White background */
+    /*border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;*/
+}
+
+.bias-bar .right {
+    flex: 1;
+    background-color: #ffcccc; /* Shaded blue */
+}
+
+.bias-bar span {
+    position: absolute;
+    font-size: 0.8rem;
+    color: #333;
+}
+
+.source-count {
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* Add spacing between items */
+    font-size: 0.8rem;
+    color: #555;
+    margin-top: 0.5rem;
+}
