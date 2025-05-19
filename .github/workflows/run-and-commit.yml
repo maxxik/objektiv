@@ -1,9 +1,8 @@
 name: Run and Commit Changes
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 jobs:
@@ -34,7 +33,7 @@ jobs:
       # Step 4: Run the Python script
       - name: Run main.py
         env:
-          OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_TOKEN }}
           PYTHONPATH: ${{ github.workspace }}
         run: python ./src/main.py
 
