@@ -32,10 +32,10 @@ jobs:
         run: python main.py
 
       # Step 5: Commit and push changes
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --quiet && echo "No changes to commit" || git commit -m "Automated changes from main.py"
-          git push
+#      - name: Commit and push changes
+#        run: |
+#          git config --global user.name "github-actions[bot]"
+#          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#          git add .
+#          git diff --quiet && echo "No changes to commit" || git commit -m "Automated changes from main.py"
+#          git push
