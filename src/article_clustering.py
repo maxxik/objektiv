@@ -107,10 +107,11 @@ def export_articles_and_similarities_to_neo4j(articles, similarity_matrix, label
     # Clear existing data
     graph.run("MATCH (n) DETACH DELETE n")
 
-    # Create nodes for each article with a single property clusterId
+    # Create nodes for each article with a dynamic label based on clusterId
     for i, article in enumerate(articles):
+        cluster_label = f"Cluster_{labels[i]}"  # Create a dynamic label for the cluster
         graph.run(
-            "CREATE (a:Article {id: $id, title: $title, summary: $summary, outlet: $outlet, bias: $bias, link: $link, clusterId: $clusterId})",
+            f"CREATE (a:Article:{cluster_label} {{id: $id, title: $title, summary: $summary, outlet: $outlet, bias: $bias, link: $link, clusterId: $clusterId}})",
             id=article["id"],
             title=article["title"],
             summary=article["summary"],
@@ -259,7 +260,7 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
 
     # Perform clustering
     # labels = louvain_clustering(similarity_matrix, resolution_parameter=1.5)
-    labels = leiden_clustering(matching_matrix, resolution_parameter=1)
+    # labels = leiden_clustering(matching_matrix, resolution_parameter=1)
 
     # Export articles and their similarities to Neo4j
     export_articles_and_similarities_to_neo4j(articles, matching_matrix.astype(int), labels)
