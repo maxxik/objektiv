@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import datetime
 
 from src.article_clustering import run_clustering
 from src.rss_fetcher import RSSFetcher
@@ -21,4 +22,8 @@ if __name__ == "__main__":
     # cluster the articles
     run_clustering("../artifacts/articles", "../artifacts/clustered_articles.json", "../artifacts/processed_pairs.json")
 
+    # copy the clustered articles json to output directory
+    os.makedirs("../output", exist_ok=True)
+    clustered_articles_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../artifacts/clustered_articles.json")
+    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"../public/{datetime.now().strftime('%Y-%m-%d')}.json")
 

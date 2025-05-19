@@ -33,15 +33,9 @@ jobs:
       # Step 4: Run the Python script
       - name: Run main.py
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PYTHONPATH: ${{ github.workspace }}
         run: python ./src/main.py
-
-      # Step 5: Copy clustered_articles.json to public/{today's date}.json
-      - name: Copy clustered_articles.json
-        run: |
-          DATE=$(date +%Y-%m-%d)
-          cp artifacts/clustered_articles.json public/$DATE.json
 
       # Step 6: Commit and push changes
       - name: Commit and push changes
