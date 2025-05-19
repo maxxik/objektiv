@@ -1,4 +1,5 @@
 import json
+import os
 
 from src.article_clustering import run_clustering
 from src.rss_fetcher import RSSFetcher
@@ -12,7 +13,7 @@ def load_outlets(file_path):
 
 if __name__ == "__main__":
     # fetch articles from the outlets
-    outlets_file = "../config/outlets.json"
+    outlets_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../config/outlets.json")
     feeds = load_outlets(outlets_file)
     fetcher = RSSFetcher(feeds)
     fetcher.fetch()

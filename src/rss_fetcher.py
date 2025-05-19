@@ -13,9 +13,9 @@ ssl_context = ssl.create_default_context(cafile=certifi.where())
 class RSSFetcher:
     def __init__(self, feeds_dict, artifact_dir_path="../artifacts", article_dir_name="articles", state_file="fetched_articles.json"):
         self.feeds_dict = feeds_dict
-        self.artifact_dir = artifact_dir_path
-        self.article_dir = os.path.join(artifact_dir_path, article_dir_name)
-        self.state_file = os.path.join(artifact_dir_path, state_file)
+        self.artifact_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), artifact_dir_path)
+        self.article_dir = os.path.join(self.artifact_dir, article_dir_name)
+        self.state_file = os.path.join(self.artifact_dir, state_file)
         os.makedirs(self.article_dir, exist_ok=True)
         self.fetched_articles = self._load_state()
 
