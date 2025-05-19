@@ -22,10 +22,10 @@ jobs:
           python-version: '3.x'
 
       # Step 3: Install dependencies
-#      - name: Install dependencies
-#        run: |
-#          python -m pip install --upgrade pip
-#          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       # Step 4.1: Ensure main.py is executable
       - name: Make main.py executable
