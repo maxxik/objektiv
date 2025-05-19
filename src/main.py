@@ -23,7 +23,11 @@ if __name__ == "__main__":
     run_clustering("../artifacts/articles", "../artifacts/clustered_articles.json", "../artifacts/processed_pairs.json")
 
     # copy the clustered articles json to output directory
-    os.makedirs("../output", exist_ok=True)
     clustered_articles_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../artifacts/clustered_articles.json")
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"../public/{datetime.now().strftime('%Y-%m-%d')}.json")
+    with open(clustered_articles_path, 'r', encoding='utf-8') as f:
+        clustered_articles = json.load(f)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(clustered_articles, f, ensure_ascii=False, indent=2)
 
+    print(f"Clustered articles saved to {output_path}")
