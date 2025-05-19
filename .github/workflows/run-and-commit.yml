@@ -27,11 +27,15 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      # Step 4.1: Ensure main.py is executable
+      - name: Make main.py executable
+        run: chmod +x ./src/main.py
+
       # Step 4: Run the Python script
       - name: Run main.py
         env:
           OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
-        run: ./src/main.py
+        run: python ./src/main.py
 
       # Step 5: Copy clustered_articles.json to public/{today's date}.json
       - name: Copy clustered_articles.json
@@ -40,10 +44,10 @@ jobs:
           cp artifacts/clustered_articles.json public/$DATE.json
 
       # Step 6: Commit and push changes
-#      - name: Commit and push changes
-#        run: |
-#          git config --global user.name "github-actions[bot]"
-#          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-#          git add .
-#          git diff --quiet && echo "No changes to commit" || git commit -m "Automated changes from main.py"
-#          git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && echo "No changes to commit" || git commit -m "Automated changes from main.py"
+          git push
