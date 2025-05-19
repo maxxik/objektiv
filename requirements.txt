@@ -1,13 +1,7 @@
 feedparser
 certifi
 requests
-beautifulsoup4
-scikit-learn
 openai
 numpy
-matplotlib
-networkx
 py2neo
 louvain
-igraph
-seaborn
