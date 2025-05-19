@@ -2,7 +2,6 @@ import json
 
 from src.article_clustering import run_clustering
 from src.rss_fetcher import RSSFetcher
-from src.topic_detection import TopicDetector
 
 
 def load_outlets(file_path):
