@@ -29,7 +29,9 @@ jobs:
 
       # Step 4: Run the Python script
       - name: Run main.py
-        run: python main.py
+        env:
+          OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+        run: python src/main.py
 
       # Step 5: Commit and push changes
 #      - name: Commit and push changes
@@ -39,3 +41,4 @@ jobs:
 #          git add .
 #          git diff --quiet && echo "No changes to commit" || git commit -m "Automated changes from main.py"
 #          git push
+
