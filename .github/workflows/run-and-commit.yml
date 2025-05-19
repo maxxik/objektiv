@@ -35,6 +35,7 @@ jobs:
       - name: Run main.py
         env:
           OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+          PYTHONPATH: ${{ github.workspace }}
         run: python ./src/main.py
 
       # Step 5: Copy clustered_articles.json to public/{today's date}.json
