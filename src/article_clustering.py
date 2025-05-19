@@ -180,6 +180,15 @@ def pairwise_article_comparison(article1, article2, processed_pairs_file):
                     (pair["articleId1"] == article2["id"] and pair["articleId2"] == article1["id"]):
                 print(f"Pair {pair['articleId1']} and {pair['articleId2']} already processed.")
                 return pair["result"]
+
+    # if titles and summaries are the same, return True
+    if article1["title"] == article2["title"] and article1["summary"] == article2["summary"]:
+        print(f"Pair {article1['id']} and {article2['id']} are exactly the same.")
+        processed_pairs.append({"articleId1": article1["id"], "articleId2": article2["id"], "result": True})
+        with open(processed_pairs_path, "w") as file:
+            json.dump(processed_pairs, file, indent=4, ensure_ascii=False)
+        return True
+
     prompt = (
         f"Given the following two articles, determine if they are about the exactly the same topic or not.\n"
         f"Article 1: {article1['title']}\n"
