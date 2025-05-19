@@ -6,7 +6,7 @@ from datetime import datetime
 import ssl
 import certifi
 import requests
-from bs4 import BeautifulSoup  # Added for HTML parsing
+# from bs4 import BeautifulSoup  # Added for HTML parsing
 
 ssl_context = ssl.create_default_context(cafile=certifi.where())
 
@@ -74,15 +74,15 @@ class RSSFetcher:
             print(f"Failed to fetch HTML content from {url}: {e}")
             return None
 
-    def _extract_visible_text(self, html):
-        try:
-            soup = BeautifulSoup(html, "html.parser")
-
-            # Get visible text
-            return soup.get_text(separator="\n", strip=True)
-        except Exception as e:
-            print(f"Failed to extract visible text: {e}")
-            return ""
+    # def _extract_visible_text(self, html):
+    #     try:
+    #         soup = BeautifulSoup(html, "html.parser")
+    #
+    #         # Get visible text
+    #         return soup.get_text(separator="\n", strip=True)
+    #     except Exception as e:
+    #         print(f"Failed to extract visible text: {e}")
+    #         return ""
 
     def _entry_to_dict(self, entry, feed_url, feed_name, bias):
         return {
