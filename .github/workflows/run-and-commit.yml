@@ -1,4 +1,4 @@
-name: Run and Commit Changes
+name: daily-run
 
 on:
   schedule:
