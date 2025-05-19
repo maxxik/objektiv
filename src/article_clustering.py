@@ -260,10 +260,10 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
 
     # Perform clustering
     # labels = louvain_clustering(similarity_matrix, resolution_parameter=1.5)
-    # labels = leiden_clustering(matching_matrix, resolution_parameter=1)
+    labels = leiden_clustering(matching_matrix, resolution_parameter=1)
 
     # Export articles and their similarities to Neo4j
-    export_articles_and_similarities_to_neo4j(articles, matching_matrix.astype(int), labels)
+    # export_articles_and_similarities_to_neo4j(articles, matching_matrix.astype(int), labels)
 
     # print stats about the clusters, print the articles in a cluster
     clusters = []
