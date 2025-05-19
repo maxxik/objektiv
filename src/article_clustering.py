@@ -97,7 +97,7 @@ def print_similarity_stats(articles, similar_articles):
         print(f"Number of articles with at least {i} similar articles: {count}")
 
 
-def export_articles_and_similarities_to_neo4j(articles, similarity_matrix):
+def export_articles_and_similarities_to_neo4j(articles, similarity_matrix, labels):
     """Export articles and their similarities to Neo4j."""
     from py2neo import Graph
 
@@ -107,13 +107,17 @@ def export_articles_and_similarities_to_neo4j(articles, similarity_matrix):
     # Clear existing data
     graph.run("MATCH (n) DETACH DELETE n")
 
-    # Create nodes for each article
+    # Create nodes for each article with a single property clusterId
     for i, article in enumerate(articles):
         graph.run(
-            "CREATE (a:Article {id: $id, title: $title, summary: $summary})",
+            "CREATE (a:Article {id: $id, title: $title, summary: $summary, outlet: $outlet, bias: $bias, link: $link, clusterId: $clusterId})",
             id=article["id"],
             title=article["title"],
             summary=article["summary"],
+            outlet=article["outlet"],
+            bias=article["bias"],
+            link=article["link"],
+            clusterId=str(labels[i]),
         )
 
     # Create relationships based on similarity and weights
@@ -131,37 +135,33 @@ def export_articles_and_similarities_to_neo4j(articles, similarity_matrix):
     print("Exported articles and similarities to Neo4j.")
 
 
-def louvain_clustering(similarity_matrix, resolution_parameter=1):
+def leiden_clustering(similarity_matrix, resolution_parameter=1):
     """
-    Perform Louvain clustering on the similarity matrix.
-    Converts the similarity matrix to a graph and applies the Louvain algorithm.
+    Perform Leiden clustering on the similarity matrix.
+    Converts the similarity matrix to a graph and applies the Leiden algorithm.
     """
     import igraph as ig
-    import louvain
+    import leidenalg
 
-    # Convert similarity matrix to a distance matrix
-    distance_matrix = similarity_matrix.copy()
-    edges = np.unravel_index(np.arange(distance_matrix.shape[0] * distance_matrix.shape[1]), distance_matrix.shape)
-    edges = list(zip(*edges))
-    weights = distance_matrix.ravel()
+    # Convert similarity matrix to a graph
+    edges = np.transpose(np.triu_indices_from(similarity_matrix, k=1))
+    weights = similarity_matrix[edges[:, 0], edges[:, 1]]
 
     # Create graph
     g = ig.Graph(directed=False)
-    g.add_vertices(distance_matrix.shape[0])  # Each observation is a node
+    g.add_vertices(similarity_matrix.shape[0])  # Each observation is a node
     g.add_edges(edges)
 
     # Assign weights to edges
     g.es['weight'] = weights
-    weights = np.array(g.es["weight"]).astype(np.float64)
 
-    # Perform Louvain clustering
-    partition_type = louvain.RBConfigurationVertexPartition
-    partition_kwargs = {
-        "weights": weights,
-        "resolution_parameter": resolution_parameter,
-    }
-    part = louvain.find_partition(g, partition_type, **partition_kwargs)
-    groups = np.array(part.membership)
+    # Perform Leiden clustering
+    partition = leidenalg.find_partition(
+        g, leidenalg.RBConfigurationVertexPartition, weights=g.es['weight'], resolution_parameter=resolution_parameter
+    )
+    groups = np.array(partition.membership)
+
+    print("Executed Leiden clustering.")
 
     return groups
 
@@ -257,12 +257,12 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
                 matching_matrix[i][j] = result
                 matching_matrix[j][i] = result
 
-    # Export articles and their similarities to Neo4j
-    # export_articles_and_similarities_to_neo4j(articles, matching_matrix.astype(int))
-
     # Perform clustering
     # labels = louvain_clustering(similarity_matrix, resolution_parameter=1.5)
-    labels = louvain_clustering(matching_matrix, resolution_parameter=1)
+    labels = leiden_clustering(matching_matrix, resolution_parameter=1)
+
+    # Export articles and their similarities to Neo4j
+    export_articles_and_similarities_to_neo4j(articles, matching_matrix.astype(int), labels)
 
     # print stats about the clusters, print the articles in a cluster
     clusters = []
@@ -297,3 +297,4 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
 
 if __name__ == "__main__":
     run_clustering()
+

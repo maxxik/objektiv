@@ -1,6 +1,6 @@
 [
     {
-        "clusterId": "12",
+        "clusterId": "13",
         "articles": [
             {
                 "articleId": "Telex_Halálra_gázoltak_egy_ott_dolgozó_280ca7a5a2ef8020c9a81cace8cbc6243fe7ff290ad3e779831058d9dab83b67",
@@ -59,10 +59,10 @@
                 "articleUrl": "https://www.zaol.hu/helyi-kek-hirek/2025/05/halalos-gazolas-autopalya?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Halálos gázolás az M6-os autópálya mellett: munkás életét vesztette"
+        "clusterTitle": "Halálos gázolás az M6-os autópálya mellett: dolgozó embert ütöttek el"
     },
     {
-        "clusterId": "4",
+        "clusterId": "5",
         "articles": [
             {
                 "articleId": "VAOL_Még_soha_nem_kaptak_ekkora_107193e3660906dcbf4760977fc3ef3835d217dc89ff18a0cb3885cc0b7b671b",
@@ -233,10 +233,10 @@
                 "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/csaladtamogatas-kalkulator-kormany-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Magyar családok történelmi támogatási összeggel részesülnek a 2024-es költségvetésben"
+        "clusterTitle": "Magyar családokat soha nem támogatott még ennyire a kormány: 4800 milliárd forintos költségvetési támogatás jövőre"
     },
     {
-        "clusterId": "8",
+        "clusterId": "2",
         "articles": [
             {
                 "articleId": "Euronews__HU__Milyen_esélyekkel_indul_Trump__hogy_e6ce5bf72309c364c6aa799e11c546c6a8fbc9b1e5a509b4f2a63c00bee03a28",
@@ -255,6 +255,14 @@
                 "articleUrl": "https://infostart.hu/kulfold/2025/05/19/vlagyimir-putyin-fogadta-donald-trump-hivasat"
             },
             {
+                "articleId": "Demokreta_Trump__Oroszország_és_Ukrajna_azonnali_5fa744d4b5383fc6264d72cc48c1ec7bf41eb3224b4a7905fe18287d2f7c0b87",
+                "articleTitle": "Trump: Oroszország és Ukrajna azonnali tárgyalásokat kezd a tűzszünetről",
+                "articleSummary": "Donald Trump hétfőn telefonon egyeztetett Vlagyimir Putyin orosz elnökkel.",
+                "articleOutlet": "Demokreta",
+                "articleBias": "Right",
+                "articleUrl": "https://demokrata.hu/vilag/trump-oroszorszag-es-ukrajna-azonnali-targyalasokat-kezd-a-tuzszunetrol-995185/"
+            },
+            {
                 "articleId": "Infostart_Megszólalt_Donald_Trump_az_orosz_8ed716c0f064de997ff0c71bc7d1568e995c05cef4addae6857a2d077dc7719f",
                 "articleTitle": "Megszólalt Donald Trump az orosz elnökkel folytatott telefonbeszélgetésről",
                 "articleSummary": "A háború befejezéséről egyeztetett a két vezető.<p><img alt=\"\" border=\"0\" src=\"https://infostart.hu/images/site/articles/lead/2025/04/1745481985-XwOarfmOY_md.jpg\" /></p>",
@@ -269,6 +277,14 @@
                 "articleOutlet": "Portfolio",
                 "articleBias": "Left",
                 "articleUrl": "https://www.portfolio.hu/global/20250519/feher-haz-putyin-es-trump-egyeztetesbe-kezdett-hetfo-este-762253"
+            },
+            {
+                "articleId": "Portfolio_Von_der_Leyen_azonnal_üzent_4ea283eb02315824c01d2329fdd329c0249d949a112dbf17d675641c6b6f1009",
+                "articleTitle": "Von der Leyen azonnal üzent Washingtonba a Putyin–Trump hívás miatt",
+                "articleSummary": "<p>Donald Trump és Vlagyimir Putyin kétórás telefonbeszélgetésen tárgyaltak a háború lehetséges lezárásáról, miközben Moszkva továbbra is kemény feltételekhez köti a tűzszünetet. Az amerikai elnök szerint az orosz államfő beleegyezett abba, hogy azonnal tűzszüneti tárgyalások induljanak Moszkva és Kijev között. Az Európai Bizottság elnöke, Ursula von der Leyen üdvözölte Trump közvetítői erőfeszítéseit, miután Emmanuel Macron francia elnökkel, Kier Starmer brit miniszterelnökkel Friedrich Merz német kancellárral és Volodimir Zelenszkij ukrán elnökkel telefonon tárgyalt az amerikai vezetővel. Zelenszkij egy új tárgyalódelegáció felállítását is bejelentette.</p>",
+                "articleOutlet": "Portfolio",
+                "articleBias": "Left",
+                "articleUrl": "https://www.portfolio.hu/global/20250519/von-der-leyen-azonnal-uzent-washingtonba-a-putyin-trump-hivas-miatt-762283"
             },
             {
                 "articleId": "Portfolio_Trump__Moszkva_és_Kijev_azonnal_9ae7841545eb4992bd4bd69b8bf923ae5a59b28f975ba41530111253986f57e4",
@@ -335,6 +351,14 @@
                 "articleUrl": "https://hu.euronews.com/2025/05/19/putyin-azt-mondta-trumpnak-hogy-az-ukrajnai-tuzszunet-lehetseges-ha-a-megfelelo-megallapod"
             },
             {
+                "articleId": "Portfolio_Trump_szerint_azonnal_tűzszüneti_tárgyalás_9675a48af5e1a7ced3b363050b9dd2e150b3835c48fea53d7b0fbafc69886387",
+                "articleTitle": "Trump szerint azonnal tűzszüneti tárgyalás indulhat, de Putyin még áttörést vár a fronton – Ukrajnai háborús híreink hétfőn",
+                "articleSummary": "<p>Oroszország egy RSz-24-es Jarsz típusú interkontinentális rakétát akar kilőni a Szverdlovszk-régióból – jelentette nemrég az ukrán katonai hírszerzés, a HUR információi alapján a Reuters. A Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2025-05-18/russia-ukraine-war-putin-heads-into-trump-call-confident-he-has-upper-hand\">jelenése </a>szerint Vlagyimir Putyin orosz elnök magabiztosnak érzi magát azelőtt, hogy hétfőn telefonon beszélgethet majd Donald Trump amerikai vezetővel. Információk szerint azt várják az oroszok, hogy még ebben az évben teljesen elfoglalják a részben ellenőrzés alá vont négy délkele-ukrajnai megyét, de ez egyelőre nem látszik raálisnak. Cikkünk folyamatosan frissül az orosz-ukrán háború legfontosabb híreivel.</p>",
+                "articleOutlet": "Portfolio",
+                "articleBias": "Left",
+                "articleUrl": "https://www.portfolio.hu/global/20250519/trump-szerint-azonnal-tuzszuneti-targyalas-indulhat-de-putyin-meg-attorest-var-a-fronton-ukrajnai-haborus-hireink-hetfon-762009"
+            },
+            {
                 "articleId": "Világgazdaság_Putyin_idén_még_győzelemre_vinné_71844f10ef2f9faf470fa1a2c83775221ad94e0b1e64d03064067c800c234534",
                 "articleTitle": "Putyin idén még győzelemre vinné a hadseregét – Trump ragaszkodik a fegyverszünethez",
                 "articleSummary": "Donald Trump az orosz–ukrán háború gyors befejezését szorgalmazza, és közvetlen párbeszédet folytatna Putyinnal.",
@@ -349,6 +373,14 @@
                 "articleOutlet": "444",
                 "articleBias": "Left",
                 "articleUrl": "https://444.hu/2025/05/19/a-tuzszuneti-targyalasok-azonnal-megkezdodnek-kozolte-trump-a-putyinnal-valo-egyeztetes-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+            },
+            {
+                "articleId": "Blikk_Trump_is_megszólalt_a_Putyinnal_bf3f167dda9239d837249d7196ec5f2a33da9c99a8d23d17992b3f3c7f566d4b",
+                "articleTitle": "Trump is megszólalt a Putyinnal való kétórás beszélgetéséről: „Az Oroszország és Ukrajna közötti tárgyalások azonnal megkezdődnek”",
+                "articleSummary": "Trump szerint nagyon jól sikerült a beszélgetése Putyinnal: m int elmondta, Oroszország azonnal tárgyal majd Ukrajnával a tűzszünetről, valamint a háború befejezéséről. Emellett kiderült az is, hogy Oroszország kereskedne az Egyesült Államokkal.",
+                "articleOutlet": "Blikk",
+                "articleBias": "Neutral",
+                "articleUrl": "https://www.blikk.hu/politika/vilagpolitika/trump-putyin-telefonbeszelgetes/133we6q"
             },
             {
                 "articleId": "Portfolio_Trump_szerint_azonnal_tűzszüneti_tárgyalás_bfe1efe1e6b1c06acc887d4e4ef097224acc1b119900ae6e7ea49b4da5e2761a",
@@ -367,6 +399,14 @@
                 "articleUrl": "https://telex.hu/kulfold/2025/05/19/vlagyimir-putyin-donald-trump-megbeszeles-volodimir-zelenszkij"
             },
             {
+                "articleId": "Portfolio_A_Kreml_gyakorlatilag_azonnal_meghazudtolta_257e030444fc7c61d5e62b0dc7e22bcb0b7f7e862302ae9bc86f07a905c2084a",
+                "articleTitle": "A Kreml gyakorlatilag azonnal meghazudtolta Trumpot a tűzszüneti tárgyalásokról",
+                "articleSummary": "<p>Vlagyimir Putyin orosz és Donald Trump amerikai elnökök nem tárgyaltak konkrét tűzszüneti menetrendről az ukrajnai háborúval kapcsolatban hétfői kétórás telefonbeszélgetésük során, de az amerikai elnök hangsúlyozta, hogy gyors megállapodásra törekszik.</p>",
+                "articleOutlet": "Portfolio",
+                "articleBias": "Left",
+                "articleUrl": "https://www.portfolio.hu/global/20250519/a-kreml-gyakorlatilag-azonnal-meghazudtolta-trumpot-a-tuzszuneti-targyalasokrol-762285"
+            },
+            {
                 "articleId": "24_hu_Trump_két_órát_beszélt_Putyinnal__37e9d112d1a0fc9004cba863fcff895defab40c84d8b55524a71703798720ad3",
                 "articleTitle": "Trump két órát beszélt Putyinnal, majd bejelentette: Azonnal elkezdődnek a háború lezárásához vezető tárgyalások Oroszország és Ukrajna között",
                 "articleSummary": "<p>Kiválóan sikerült a beszélgetés az amerikai elnök szerint.</p>\n<p>The post <a href=\"https://24.hu/kulfold/2025/05/19/felhivta-zelenszkijt-aztan-ket-orat-beszelt-putyinnal-trump/\" target=\"_blank\">Trump két órát beszélt Putyinnal, majd bejelentette: Azonnal elkezdődnek a háború lezárásához vezető tárgyalások Oroszország és Ukrajna között</a> first appeared on <a href=\"https://24.hu/\" target=\"_blank\">24.hu</a>.</p>",
@@ -375,7 +415,7 @@
                 "articleUrl": "https://24.hu/kulfold/2025/05/19/felhivta-zelenszkijt-aztan-ket-orat-beszelt-putyinnal-trump/"
             }
         ],
-        "clusterTitle": "Trump és Putyin telefonos egyeztetése: esélyek a háború lezárására"
+        "clusterTitle": "Donald Trump és Vlagyimir Putyin közötti telefonbeszélgetések a háború lezárásáról és a tűzszüneti tárgyalásokról"
     },
     {
         "clusterId": "0",
@@ -621,10 +661,10 @@
                 "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/magyar-peter-beismeres-ukran-kembotrany-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Tisza Párt elnökének ukrán kémet szervező és támogatói szerepe Magyar Péter nyilatkozata szerint"
+        "clusterTitle": "Kémbotrány: Tseber Roland Ukrajnai útját szervező férfi Magyar Péterhez került legközelebb"
     },
     {
-        "clusterId": "3",
+        "clusterId": "4",
         "articles": [
             {
                 "articleId": "FEOL_Szijjártó_Péter__világraszóló_magyar_siker__9df67a2e33579657dfef3c67bbffb2664e3dff2c40816efac695c7d1be8aec73",
@@ -795,7 +835,7 @@
                 "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/fair-play-vilagnap-magyar-siker-ensz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Magyar siker az ENSZ-ben: május 19-e a fair play világnapja"
+        "clusterTitle": "Magyar siker az ENSZ-ben: május 19. a fair play világnapja lesz"
     },
     {
         "clusterId": "9",
@@ -937,10 +977,10 @@
                 "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/orosz-energia-brusszel-magyarok-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Magyar közvélemény: Többség elutasítja az EU energiavégrehajtási terveit"
+        "clusterTitle": "Magyar többség elutasítja az EU energiaembargó terveit, aggódnak gazdasági és ellátási kockázatok miatt"
     },
     {
-        "clusterId": "2",
+        "clusterId": "3",
         "articles": [
             {
                 "articleId": "DUOL_Donald_Trump_telefonon_tárgyalt_Putyinnal_af353edaaecde11617f8c2a9b7b1bcfee2009c38f7c29db80f4f4c3af92d87f1",
@@ -1119,7 +1159,7 @@
                 "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/trump-putyin-telefon-targyalas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Trump és Putyin több mint két órás telefonbeszélgetése diplomáciai patthelyzetet tükröz"
+        "clusterTitle": "Trump és Putyin több mint két órás telefonbeszélgetése diplomáciai patthelyzettel"
     },
     {
         "clusterId": "1",
@@ -1277,12 +1317,28 @@
                 "articleUrl": "https://www.kemma.hu/nemzetkozi-kek-hirek/2025/05/magyar-hegymaszo-romania-himalaja-tragedia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             },
             {
+                "articleId": "Origo_Erdélyi_magyar_hegymászó_halt_meg_bbb7043dcda70bbb40184efe96fc3f2556550860470105f86c86ae58b3458fad",
+                "articleTitle": "Erdélyi magyar hegymászó halt meg a Himalájában",
+                "articleSummary": "A világ negyedi legmagasabb csúcsát próbálta meghódítani.",
+                "articleOutlet": "Origo",
+                "articleBias": "Right",
+                "articleUrl": "https://www.origo.hu/sport/sport-egyeni/2025/05/hegymaszo-halt-meg-a-himalajaban"
+            },
+            {
                 "articleId": "Kisalföld_Romániai_magyar_hegymászó_halt_meg_2848367e9ef8b04586c160e34fcd40500bde0762b47d603140d67e8073209557",
                 "articleTitle": "Romániai magyar hegymászó halt meg a Himalájában",
                 "articleSummary": "Vágó Barna Zsolt a nepáli Lhoce csúcs megmászása közben vesztette életét.",
                 "articleOutlet": "Kisalföld",
                 "articleBias": "Right",
                 "articleUrl": "https://www.kisalfold.hu/nemzetkozi-kek-hirek/2025/05/magyar-hegymaszo-romania-himalaja-tragedia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "Metropol_Magyar_férfi_halt_meg_a_59cb79039f9d7c2733b484b0b082690bacbac0cb9530af4f01ccc9ac52f6474c",
+                "articleTitle": "Magyar férfi halt meg a Himalájában",
+                "articleSummary": "A férfi majdnem sikeresen megvalósította álmát.",
+                "articleOutlet": "Metropol",
+                "articleBias": "Right",
+                "articleUrl": "https://metropol.hu/aktualis/2025/05/magyar-ferfi-halt-meg-a-himalajaban"
             },
             {
                 "articleId": "Economx_Elhunyt_egy_erdélyi_magyar_hegymászó_c2767b25bff110efa8057bb89b21c89b0a9d918c255f110e326245c7330a0f78",
@@ -1317,7 +1373,7 @@
                 "articleUrl": "https://www.heol.hu/nemzetkozi-kek-hirek/2025/05/magyar-hegymaszo-romania-himalaja-tragedia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Magyar hegymászó halálhíre a Himalájában: Vágó Barna Zsolt a Lhoce csúcsán vesztette életét"
+        "clusterTitle": "Magyar hegymászó halálhíre a Himalájában: Vágó Barna Zsolt a Lhoce-csúcs megmászása közben vesztette életét"
     },
     {
         "clusterId": "10",
@@ -1435,10 +1491,104 @@
                 "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/papa-xiv-leo-beke-misszio-vatikan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "XIV. Leó pápa beiktatása és béketeremtő szerepe"
+        "clusterTitle": "XIV. Leó pápa: A béketeremtés központi alakja a katolikus egyház élén"
     },
     {
-        "clusterId": "14",
+        "clusterId": "11",
+        "articles": [
+            {
+                "articleId": "ZAOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "ZAOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.zaol.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "BEOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "BEOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.beol.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "HAON_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "HAON",
+                "articleBias": "Right",
+                "articleUrl": "https://www.haon.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "Sonline_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "Sonline",
+                "articleBias": "Right",
+                "articleUrl": "https://www.sonline.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "DUOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "DUOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.duol.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "FEOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "FEOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.feol.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "BOON_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "BOON",
+                "articleBias": "Right",
+                "articleUrl": "https://www.boon.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "Délmagyar_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "Délmagyar",
+                "articleBias": "Right",
+                "articleUrl": "https://www.delmagyar.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "VEOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "VEOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.veol.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "Szoljon_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "Szoljon",
+                "articleBias": "Right",
+                "articleUrl": "https://www.szoljon.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "NOOL_Megnyílt_a_Szent_István_könyvhét_8703e12e3a0a73388b4efd6c71b4b881e647ff95b1f9675909c65f336a8903bc",
+                "articleTitle": "Megnyílt a Szent István-könyvhét",
+                "articleSummary": "A keresztény szellemiségű könyvkiadók legnagyobb magyarországi seregszemléjét Erdő Péter nyitotta meg.",
+                "articleOutlet": "NOOL",
+                "articleBias": "Right",
+                "articleUrl": "https://www.nool.hu/hazai-kultura/2025/05/szent-istvan-konyvhet-kiadvanyok-keresztenyseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            }
+        ],
+        "clusterTitle": "Szent István-könyvhét megnyitója Erdő Péterrel"
+    },
+    {
+        "clusterId": "16",
         "articles": [
             {
                 "articleId": "444_Orbán_Viktor_legbénább_külpolitikai_hibája_8c78729be14af878deccdf092f0ce4d2af04d8b0835cae9aec85d1645e477e94",
@@ -1481,10 +1631,10 @@
                 "articleUrl": "https://hu.euronews.com/my-europe/2025/05/18/romania-valaszt-hatalmas-a-tet-az-erdelyi-magyaroknak"
             }
         ],
-        "clusterTitle": "Orbán Viktor Külpolitikai Hibája és Az Erdélyi Magyarok Választási Szerepe"
+        "clusterTitle": "Orbán Viktor Képtelen Megakadályozni a Magyarok Cserbenhagyását Romániában"
     },
     {
-        "clusterId": "13",
+        "clusterId": "14",
         "articles": [
             {
                 "articleId": "HEOL_A_postai_feladásra_is_figyelni_824f049c7a5fb962896b5b7b68f4cf10d366f66b8d4dccf89b66bcdfadc4ea64",
@@ -1535,10 +1685,10 @@
                 "articleUrl": "https://ripost.hu/insider/2025/05/szja-bevallas-hatarido-nav?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon"
+        "clusterTitle": "Szabályok és Határidők az Szja-bevallásban: Figyelem, Közeleg a Május 20-i Határidő!"
     },
     {
-        "clusterId": "5",
+        "clusterId": "6",
         "articles": [
             {
                 "articleId": "VEOL_Jól_látható_Ruszin_Szendi_Romulusz_érintettsége_c528164e887d937461a116f4164b45c08656c9be1e54f2345a6cafc277c585bf",
@@ -1693,10 +1843,10 @@
                 "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/ukran-lejaratokampany-ruszin-szendi-romulusz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Ruszin-Szendi Romulusz érintettsége a ukrán lejáratókampányban, a honvédelmi miniszter kijelentése"
+        "clusterTitle": "Ruszin-Szendi Romulusz érintettsége az ukrán lejáratókampányban, mely hazánkat érinti"
     },
     {
-        "clusterId": "6",
+        "clusterId": "7",
         "articles": [
             {
                 "articleId": "BOON_Ezeket_a_tanácsokat_érdemes_megfogadni__a0c3d0d5bcb79756a4dd6f916ca49e7b819fc111d848fdcd0d15dc4defe03103",
@@ -1851,10 +2001,40 @@
                 "articleUrl": "https://www.kisalfold.hu/hazai-bulvar-celeb/2025/05/nyaralas-fogyasztovedelmi-tanacsok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Gondtalan nyaralás: hasznos tanácsok a problémamentes szabadságért"
+        "clusterTitle": "Gondtalan nyaralás: Hasznos tanácsok a zökkenőmentes szabadságért"
     },
     {
-        "clusterId": "7",
+        "clusterId": "27",
+        "articles": [
+            {
+                "articleId": "Origo_Sziklaomlás_veszélye_fenyeget_egy_svájci_a4a6638486b627b2c3a31a96084883bdf3cc2ac853772cd16656c5daa5d597b0",
+                "articleTitle": "Sziklaomlás veszélye fenyeget egy svájci üdülőrégiót, egy falut már evakuáltak",
+                "articleSummary": "A régióban már nem tartózkodnak turisták.",
+                "articleOutlet": "Origo",
+                "articleBias": "Right",
+                "articleUrl": "https://www.origo.hu/nagyvilag/2025/05/sziklaomlas-veszely-svajc"
+            },
+            {
+                "articleId": "Infostart_Ilyet_még_nem_láttak__hatalmas_9d7fa80536e0b367b515497e5906c28b5b121f4c656209ad673fd2721697f4e0",
+                "articleTitle": "Ilyet még nem láttak: hatalmas veszély fenyegeti a svájci üdülőrégiót",
+                "articleSummary": "Sziklaomlás fenyegeti a svájci Wallis kantonban található Lötschental üdülőrégiót, ezért rövid határidőn belül evakuálni kellett a kőlavina útjában álló Blatten falut - közölte hétfőn a régió katasztrófavédelmi hatósága.<p><img alt=\"\" border=\"0\" src=\"https://infostart.hu/images/site/articles/lead/2025/05/1747675947-ZNf9DzJv4_md.jpg\" /></p>",
+                "articleOutlet": "Infostart",
+                "articleBias": "Neutral",
+                "articleUrl": "https://infostart.hu/kulfold/2025/05/19/ilyet-meg-nem-lattak-hatalmas-veszely-fenyegeti-a-svajci-uduloregiot"
+            },
+            {
+                "articleId": "Portfolio_Evakuálni_kell_egy_üdülőfalut__mert_592507bb1fc98b6c8abfbfda062f481be469b8c69df36498e38ca3c788fa8724",
+                "articleTitle": "Evakuálni kell egy üdülőfalut, mert 5 millió köbméternyi szikla zúdulhat rá",
+                "articleSummary": "<p>Sziklaomlás fenyegeti a svájci Wallis kantonban található Lötschental üdülőrégiót, ezért rövid határidőn belül evakuálni kellett a kőlavina útjában álló Blatten falut - közölte hétfőn a régió katasztrófavédelmi hatósága.</p>",
+                "articleOutlet": "Portfolio",
+                "articleBias": "Left",
+                "articleUrl": "https://www.portfolio.hu/global/20250519/evakualni-kell-egy-udulofalut-mert-5-millio-kobmeternyi-szikla-zudulhat-ra-762281"
+            }
+        ],
+        "clusterTitle": "Sziklaomlásfenyegetés miatt evakuáltak svájci üdülőfalut a Lötschental régióban"
+    },
+    {
+        "clusterId": "8",
         "articles": [
             {
                 "articleId": "Kisalföld_Ukrajna_nyomására_hozna_újabb_szankciókat_fb5547bf4c05ff478213d1a6cf215fe4b7ef064686fc77b016b28f1d9ad74547",
@@ -2009,10 +2189,10 @@
                 "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/ukrajna-energia-szankcio-eu?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Brüsszel újabb szankciókat indít az orosz energetikai szektor ellen Zelenszkij nyomására"
+        "clusterTitle": "Brüsszel új szankciókat tervez az orosz energetikai szektor és bankok ellen Zelenszkij ukrán elnök nyomására"
     },
     {
-        "clusterId": "18",
+        "clusterId": "20",
         "articles": [
             {
                 "articleId": "Euronews__HU__Mexikói_hadihajó_ütközött_a_Brooklyn_d5f761146557f7d6c6bd68920569b7782466f93b2312956b7b6c6063ebf8bf62",
@@ -2047,10 +2227,10 @@
                 "articleUrl": "https://www.kemma.hu/helyi-kozelet/2025/05/utkozott-a-mexikoi-vitorlas-hajo-ketten-meghaltak-a-balesetben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Mexikói Haditengerészeti Hajó Ütközött a Brooklyn Hídnak: Két Halott és Sérültek"
+        "clusterTitle": "Mexikói Haditengerészeti Hajó Ütközött a Brooklyn Hídnak New Yorkban: Két Halott és Sérültek"
     },
     {
-        "clusterId": "15",
+        "clusterId": "17",
         "articles": [
             {
                 "articleId": "Nyugat_Bödőcs_Tibor_előállt_nemzeti_konzultációs_6b93fd714b59fced86ae79b73ac84b4eb2ed6c47c89eeba2e28a900382c2daa7",
@@ -2093,10 +2273,10 @@
                 "articleUrl": "https://telex.hu/zacc/2025/05/19/bodocs-tibor-orbani-konzultacio-errol-arrol"
             }
         ],
-        "clusterTitle": "Bödőcs Tibor saját nemzeti konzultációt indított Orbán Viktor kérdéseivel a hatvanpusztai jegesmedveszaunáról"
+        "clusterTitle": "Bödőcs Tibor saját nemzeti konzultációt indított Orbán Viktornak a hatvanpusztai jegesmedveszaunáról"
     },
     {
-        "clusterId": "20",
+        "clusterId": "32",
         "articles": [
             {
                 "articleId": "VEOL_Gyászol_a_tudományos_élet__elhunyt_57a9d8c24a53f8e9c6de9383a3143d0acfb61ce6c076ed2704756aa2f6e42906",
@@ -2123,10 +2303,10 @@
                 "articleUrl": "https://index.hu/belfold/2025/05/19/czelnai-rudolf-meteorologus-mta-gyasz/"
             }
         ],
-        "clusterTitle": "Elhunyt Czelnai Rudolf, a kiemelkedő magyar meteorológus és tudományos személyiség"
+        "clusterTitle": "Elhunyt Czelnai Rudolf, a magyar meteorológia kiemelkedő alakja"
     },
     {
-        "clusterId": "24",
+        "clusterId": "22",
         "articles": [
             {
                 "articleId": "BOON_Karikó_Katalinról_nyílt_kiállítás_a_6a3b5035c4cc605fbd12022c758633d1bd7074bb880b054b95d70e1d8db628a2",
@@ -2153,10 +2333,10 @@
                 "articleUrl": "https://www.duol.hu/hazai-kultura/2025/05/kariko-katalin-kiallitas-a-becs-josephinum?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Karikó Katalínról nyílt kiállítás Bécsben, amely európai városokban is bemutatásra kerül"
+        "clusterTitle": "Karikó Katalínról nyílt kiállítás a bécsi Josephinumban, melyet több európai nagyvárosban is bemutatnak"
     },
     {
-        "clusterId": "17",
+        "clusterId": "19",
         "articles": [
             {
                 "articleId": "Világgazdaság_Meghalt_Jurij_Grigorovics__az_orosz_35297d6d192545b21a7655eb035420ce9da8d6b1cc2b7a3793ac6cd8090a14ce",
@@ -2191,10 +2371,10 @@
                 "articleUrl": "https://www.magyarhirlap.hu/nekrolog/20250519-elhunyt-jurij-grigorovics-az-orosz-balett-meghatarozo-alakja"
             }
         ],
-        "clusterTitle": "Elhunyt Jurij Grigorovics, a híres orosz balettművész és koreográfus, 98 évesen"
+        "clusterTitle": "Meghalt Jurij Grigorovics, az orosz balett legendás vezető koreográfusa"
     },
     {
-        "clusterId": "21",
+        "clusterId": "23",
         "articles": [
             {
                 "articleId": "RTL_Június_2_án_érkezik_The_Floor_7297583ecff93112c49f019603dc1033d79c7a71d688285e16f1dd7e912a0cfe",
@@ -2221,10 +2401,10 @@
                 "articleUrl": "https://rtl.hu/the-floor/2025/05/19/masodik-evad-erkezik-szujo-zoltan"
             }
         ],
-        "clusterTitle": "Június 2-án indul a The Floor – Csak egy maradhat második évada az RTL-en"
+        "clusterTitle": "The Floor – Csak egy maradhat második évad június 2-tól az RTL-en"
     },
     {
-        "clusterId": "11",
+        "clusterId": "12",
         "articles": [
             {
                 "articleId": "Mandiner_Orbán_Viktor_üzent_az_új_1e4ae5ef27d29a74ada40d0ffe6a4a0661f46531a2965bbe7b4edb09873db425",
@@ -2299,10 +2479,10 @@
                 "articleUrl": "http://hvg.hu/itthon/20250519_romania-elnokvalasztas-nicusor-dan-george-simion-orban-viktor-gratulacio#rss"
             }
         ],
-        "clusterTitle": "Orbán Viktor gratulál az új román elnöknek Nicușor Dan győzelméhez"
+        "clusterTitle": "Orbán Viktor gratulál Nicușor Dan román elnöknek a győzelemhez és az együttműködés várakozása"
     },
     {
-        "clusterId": "22",
+        "clusterId": "33",
         "articles": [
             {
                 "articleId": "Tények_6_tonnás_gép_zuhant_egy_f8d44670bc68dbb51ea14266bf0aa89185e85acf3af7e0999e6db61d173c2730",
@@ -2329,10 +2509,10 @@
                 "articleUrl": "https://www.nyugat.hu/cikk/366320_meghalt_egy_ferfi_miutan_razuhant_egy_hat_tonnas"
             }
         ],
-        "clusterTitle": "Hattonnás fémszerszám zuhanása okozott halálos balesetet Tatán"
+        "clusterTitle": "Hattonnás fémszerszám zuhanása halálos balesetet okozott Tatán"
     },
     {
-        "clusterId": "23",
+        "clusterId": "24",
         "articles": [
             {
                 "articleId": "HVG_Félmilliárdos_állami_támogatást_kapott_Kálomista_c1cd76cb3ac41e472a8f7f75156097227b3937e35a15a083b9b51d9faf91a423",
@@ -2359,10 +2539,10 @@
                 "articleUrl": "https://444.hu/2025/05/19/ujabb-felmilliard-forint-allami-tamogatast-kapott-kalomista-gabor-fia-egy-filmre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
             }
         ],
-        "clusterTitle": "Kálomista Gábor fia félmilliárd forint állami támogatást kapott filmprojektjéhez"
+        "clusterTitle": "Kálomista Gábor és családja több százmilliós állami támogatással készítenek filmet"
     },
     {
-        "clusterId": "16",
+        "clusterId": "21",
         "articles": [
             {
                 "articleId": "Blikk_Az_Európa_Tanács_monitoring_bizottsága_384c8681dec105842a717bc9fa1382cd3ea3a41192d0f3d0d0baa2b739bd109b",
@@ -2397,10 +2577,10 @@
                 "articleUrl": "https://www.nyugat.hu/cikk/366323_az_europa_tanacs_felszolitotta_az_orszaggyulest_az"
             }
         ],
-        "clusterTitle": "Európa Tanács felszólítja Magyarországot az átláthatósági törvény tárgyalásának felfüggesztésére"
+        "clusterTitle": "Európai Bizottság felszólította Magyarországot az átláthatósági törvény tárgyalásának felfüggesztésére"
     },
     {
-        "clusterId": "19",
+        "clusterId": "18",
         "articles": [
             {
                 "articleId": "Blikk_Egyszerűbb_lehet_a_beutazás_Angliába__9bd24b5f383e0be8e50e887272ccadd3ed34ccafbee853c611b8ae09b175c959",
@@ -2419,6 +2599,14 @@
                 "articleUrl": "https://444.hu/2025/05/19/az-ot-evvel-ezelotti-brexit-utan-uj-megallapodasokat-kotott-az-egyesult-kiralysag-es-az-europai-unio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
             },
             {
+                "articleId": "Economx_Megállapodtak_a_britek_az_EU_val__70771c90ccdf45924e2ee4966f9e2b4eee8e61162813d86824e3843607011411",
+                "articleTitle": "Megállapodtak a britek az EU-val, ezzel a magyarok is jól járhatnak",
+                "articleSummary": "Részletes megállapodást kötött az Európai Unió és az Egyesült Királyság a halászat, a mezőgazdasági export, a védelem, valamint az ifjúsági programok, a vízum, valamint bizonyos adózási ... ...",
+                "articleOutlet": "Economx",
+                "articleBias": "Neutral",
+                "articleUrl": "https://www.economx.hu/nemzetkozi-gazdasag/egyesult-kiralysag-europai-unio-keir-starmer-brexit-megallapodas.809527.html"
+            },
+            {
                 "articleId": "Economx_Megállapodtak_a_britek_Európával__ezzel_32552bbe1c3db93656d9e3bb2f5561b658117667e54b13b88934f23e576625c0",
                 "articleTitle": "Megállapodtak a britek Európával, ezzel a magyarok is jól járhatnak",
                 "articleSummary": "Részletes megállapodást kötött az Európai Unió és az Egyesült Királyság a halászat, a mezőgazdasági export, a védelem, valamint az ifjúsági programok, a vízum, valamint bizonyos adózási ... ...",
@@ -2435,10 +2623,10 @@
                 "articleUrl": "https://www.vg.hu/nemzetkozi-gazdasag/2025/05/brexit-utani-egyuttmukodes-eu-uk"
             }
         ],
-        "clusterTitle": "Nagy-Britannia és az EU hosszabbított halászati megállapodása, erősített védelmi együttműködés és új lehetőségek a beutazásban"
+        "clusterTitle": "Nagy-Britannia és az EU hosszabbította meg a halászati megállapodást, új együttműködési lehetőségek és megállapodások születtek"
     },
     {
-        "clusterId": "25",
+        "clusterId": "31",
         "articles": [
             {
                 "articleId": "RTL_Még_hétfőn_is_a_hőmérsékleti_c258c9c741948a099ce851152e43c3644168dd655df03078f832dc62f2887b96",
@@ -2465,10 +2653,10 @@
                 "articleUrl": "https://tenyek.hu/cikkek/nem-ilyen-idojarast-szeretnenk-a-kovetkezo-napokra?utm_campaign=tv2_tenyek&utm_medium=referral&utm_source=megyei"
             }
         ],
-        "clusterTitle": "Időjárási hullámvasút: változékony és hűvösebb hét kezdődik"
+        "clusterTitle": "Időjárási változékonyság: Hétfőn is hullámzó hőmérséklet és esőzések várhatók"
     },
     {
-        "clusterId": "26",
+        "clusterId": "15",
         "articles": [
             {
                 "articleId": "Index_Megszólalt_Joe_Biden__miután_rákkal_06f588ef80d93f14be2c9532dc6e6ff71800085a24b923b41c9012810d13fa0f",
@@ -2493,12 +2681,36 @@
                 "articleOutlet": "Telex",
                 "articleBias": "Neutral",
                 "articleUrl": "https://telex.hu/kulfold/2025/05/19/felesegevel-kozos-keppel-koszonte-meg-a-tamogatast-a-rakkal-diagnosztizalt-joe-biden"
+            },
+            {
+                "articleId": "Blikk_Eddig_hogy_nem_vették_észre__7134cce4026a831a5f152454d4894553d57f5e1cbf8372e45a0855cb7182861b",
+                "articleTitle": "Eddig hogy nem vették észre? Joe Biden vajon tudhatott a rákbetegségéről?",
+                "articleSummary": "Élete egyik legdrámaibb küzdelmére kell felkészülnie Joe Biden korábbi amerikai elnöknek. A politikus hivatala vasárnap jelentette be, hogy agresszív prosztatarákot fedeztek fel a volt elnök szervezetében, az orvosai pedig azonnal összeültek, hogy a kezelési lehetőségekről döntsenek. Ám vezető amerikai orvosok szerint nagyon furcsa, hogy a betegség csak most derült ki.",
+                "articleOutlet": "Blikk",
+                "articleBias": "Neutral",
+                "articleUrl": "https://www.blikk.hu/politika/vilagpolitika/joe-biden-rak-betegseg-vizsgalatok/3jdcgj1"
+            },
+            {
+                "articleId": "Portfolio_Biden_rákbetegsége_miatt_nagyon_erős_f8983830ba1f33aa95758d35a752ea7215d3cd76ccc3799eefcb75c78b6954fd",
+                "articleTitle": "Biden rákbetegsége miatt nagyon erős politikai aggályokat fogalmazott meg JD Vance",
+                "articleSummary": "<p>Joe Biden prosztatarákkos diagnózisa újabb kérdéseket vet fel az egykori elnök egészségi állapotának átláthatóságával kapcsolatban. Republikánus politikusok arról akarnak bővebb tájékoztatást kapni, hogy hivatali ideje alatt a volt államfő döntéseit mennyiben befolyásolhatta betegsége, egyáltalán az ismert volt-e akkor.</p>",
+                "articleOutlet": "Portfolio",
+                "articleBias": "Left",
+                "articleUrl": "https://www.portfolio.hu/global/20250519/biden-rakbetegsege-miatt-nagyon-eros-politikai-aggalyokat-fogalmazott-meg-jd-vance-762277"
+            },
+            {
+                "articleId": "Euronews__HU__Agresszív_rákbetegséggel_küzd_Joe_Biden_51d503832b2e73783285e1c6889eb062793ebe8bb3efb6d59dd526092da5ee05",
+                "articleTitle": "Agresszív rákbetegséggel küzd Joe Biden volt elnök, mindkét párt szurkol a gyógyulásáért",
+                "articleSummary": "Biden volt elnök politikai szövetségesei és riválisai egyaránt jókívánságok és tisztelgések özönét küldték a volt elnöknek vasárnap, miután hírt kaptak rákdiagnózisáról, „harcosként” emlegetve őt.",
+                "articleOutlet": "Euronews (HU)",
+                "articleBias": "Neutral",
+                "articleUrl": "https://hu.euronews.com/2025/05/19/agressziv-prosztata-rak-betegseggel-kuzd-joe-biden-volt-elnok"
             }
         ],
-        "clusterTitle": "Joe Biden Rákdiagnózisa Után Közös Képpel Köszönte Meg Támogatását"
+        "clusterTitle": "Joe Biden Prosztatarák Diagnózisa és Egészségi Állapotával Kapcsolatos Hírek"
     },
     {
-        "clusterId": "27",
+        "clusterId": "25",
         "articles": [
             {
                 "articleId": "Infostart_Illegális_tuningtalálkozón_razziázott_a_rendőrség_ed70721283550246d400347b72d665629b5760a102d750480fbce908a29ba58d",
@@ -2525,10 +2737,10 @@
                 "articleUrl": "https://www.nyugat.hu/cikk/366296_tuningtalalkozora_csaptak_le_a_rendorok_gyorben_17"
             }
         ],
-        "clusterTitle": "Rendőri akció illegális tuningtalálkozón Győrben: 17 autót vontak be soron kívüli műszaki vizsgára"
+        "clusterTitle": "Rendőrségi akció Győrben: illegális tuningtalálkozó és 17 autó soron kívüli műszaki vizsgára utasítva"
     },
     {
-        "clusterId": "28",
+        "clusterId": "26",
         "articles": [
             {
                 "articleId": "Nyugat_Holttestet_találtak_Dunakeszin___gyilkosság_c325d9c2b78ff24cda73778ab291272ee96af130990f83e67b24a85bd075ff21",
@@ -2555,10 +2767,10 @@
                 "articleUrl": "https://www.dunakanyarregio.hu/2025/05/19/emberoles-dunakeszin/"
             }
         ],
-        "clusterTitle": "Gyilkosság Dunakeszin: Holttestet Parkoló Autóban Találtak, Elfogták a Gyanúsítottat"
+        "clusterTitle": "Gyilkosság Dunakeszin: Holttestet Parkoló Autóban Találtak, Gyanúsított Elfogásával"
     },
     {
-        "clusterId": "30",
+        "clusterId": "28",
         "articles": [
             {
                 "articleId": "Metropol_Tetőn_keresztül_próbált_menekülni_a_08a575f85e6f0eea27196240f7fc2b48b0353d9b5d4fc3a2c717196233fdf6b3",
@@ -2585,7 +2797,7 @@
                 "articleUrl": "https://www.veol.hu/helyi-kek-hirek/2025/05/rendor-teto-menekules?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
             }
         ],
-        "clusterTitle": "Férfi próbált menekülni a tetőn keresztül Pápa környékén, elfogták a rendőrök és katasztrófavédők"
+        "clusterTitle": "Férfi próbált menekülni a tetőn keresztül Pápa környékén, elfogták a rendőrök és tűzoltók"
     },
     {
         "clusterId": "29",
@@ -2615,6 +2827,36 @@
                 "articleUrl": "https://nepszava.hu/3280294_oroszorszag-amnesty-international-betiltas-fenyegetes-megosztas-buntetoeljaras"
             }
         ],
-        "clusterTitle": "Oroszországban büntetőeljárás indíthat azok ellen, akik megosztják az Amnesty International tartalmait"
+        "clusterTitle": "Oroszországban büntetőeljárás indíthatnak azok ellen, akik megosztják az Amnesty International tartalmait"
+    },
+    {
+        "clusterId": "30",
+        "articles": [
+            {
+                "articleId": "Mandiner_Brutális_árbeszakadás_tapasztalható_a_drogériákban_e7071a86036c8883aab0501469a52089015ed06fe6b8f29d2998a1c7bc910758",
+                "articleTitle": "Brutális árbeszakadás tapasztalható a drogériákban – működik az árréscsökkentés",
+                "articleSummary": "Akár 20-30 százalékkal is olcsóbban hozzájuthatnak a vásárlók a mosáshoz vagy mosogatáshoz szükséges termékekhez.",
+                "articleOutlet": "Mandiner",
+                "articleBias": "Right",
+                "articleUrl": "https://mandiner.hu/belfold/2025/05/brutalis-arbeszakadas-tapasztalhato-a-drogeriakban-mukodik-az-arrescsokkentes"
+            },
+            {
+                "articleId": "ripost_Teszteltük_az_árréscsökkentést_a_drogériákban_271564fd2f484943ef431430344092e0154c51840f08d248eb788fce178f47df",
+                "articleTitle": "Teszteltük az árréscsökkentést a drogériákban – megdöbbentő, mennyivel több pénzünk maradt",
+                "articleSummary": "Mutatjuk, milyen áresés tapasztalható egyes termékeknél.",
+                "articleOutlet": "ripost",
+                "articleBias": "Right",
+                "articleUrl": "https://ripost.hu/insider/2025/05/arrescsokkentes-a-drogeriakban-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+            },
+            {
+                "articleId": "Világgazdaság_Brutális_áresés_a_drogériákban__ennyivel_4807e66f21014842734d969d3b3d44d2fce05a843b3618c126ea114386ddb70e",
+                "articleTitle": "Brutális áresés a drogériákban: ennyivel lett olcsóbb a mosószer és a pelenka az árréscsökkentés után",
+                "articleSummary": "Az interneten elérhető webshopok alapján megnéztük, hogy az árrés csökkentése után milyen árakkal találkozhatnak a vásárlók a drogériákban.",
+                "articleOutlet": "Világgazdaság",
+                "articleBias": "Right",
+                "articleUrl": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2025/05/arres-csokkentes-drogeriak-olcsobb-mososzer-pelenka"
+            }
+        ],
+        "clusterTitle": "Árleszállás a drogériákban: jelentős árkedvezmények az árréscsökkentés miatt"
     }
 ]

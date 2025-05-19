@@ -4,5 +4,5 @@ requests
 openai
 numpy
 py2neo
-louvain
+leidenalg
 scikit-learn
