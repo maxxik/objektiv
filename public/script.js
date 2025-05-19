@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const clustersContainer = document.getElementById("clusters-container");
 
-    fetch("data.json")
+    fetch("2025-05-19.json")
         .then(response => response.json())
         .then(data => {
             // Sort clusters by the number of articles in descending order
