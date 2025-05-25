@@ -155,10 +155,10 @@
         "articleUrl": "https://www.szoljon.hu/hazai-gazdasag/2025/05/csaladok-tamogatas-kormany-kocz-zsofia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Koncz Zsófia bejelentette: a gyermeket nevelő családok költségvetése lesz a 2026-os év támogatási csúcsa"
+    "clusterTitle": "\"Rekordtámogatás a Gyermeket Nevelő Magyar Családoknak 2026-ban\""
   },
   {
-    "clusterId": "9",
+    "clusterId": "11",
     "articles": [
       {
         "articleId": "Szoljon_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
@@ -167,14 +167,6 @@
         "articleOutlet": "Szoljon",
         "articleBias": "Right",
         "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "TEOL_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
-        "articleTitle": "Adótartozás: több ezer család helyzetén könnyítene a KDNP javaslata",
-        "articleSummary": "A cél: több ezer családon segíteni.",
-        "articleOutlet": "TEOL",
-        "articleBias": "Right",
-        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "Sonline_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
@@ -201,14 +193,6 @@
         "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
-        "articleId": "BAON_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
-        "articleTitle": "Adótartozás: több ezer család helyzetén könnyítene a KDNP javaslata",
-        "articleSummary": "A cél: több ezer családon segíteni.",
-        "articleOutlet": "BAON",
-        "articleBias": "Right",
-        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
         "articleId": "BEOL_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
         "articleTitle": "Adótartozás: több ezer család helyzetén könnyítene a KDNP javaslata",
         "articleSummary": "A cél: több ezer családon segíteni.",
@@ -223,14 +207,6 @@
         "articleOutlet": "HEOL",
         "articleBias": "Right",
         "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "SZON_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
-        "articleTitle": "Adótartozás: több ezer család helyzetén könnyítene a KDNP javaslata",
-        "articleSummary": "A cél: több ezer családon segíteni.",
-        "articleOutlet": "SZON",
-        "articleBias": "Right",
-        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "NOOL_Adótartozás__több_ezer_család_helyzetén_62b6ad5e9e2add9c6fec520378355b096a9fa83d07bee71b8313290da0b356ec",
@@ -273,7 +249,7 @@
         "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/adotartozas-osszeghatar-kdnp-torveny-modosito-javaslat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "KDNP javaslat a több ezer család adótartozásának enyhítésére"
+    "clusterTitle": "KDNP Javaslat az Adótartozások Enyhítésére Több Ezer Család Számára"
   },
   {
     "clusterId": "1",
@@ -431,10 +407,10 @@
         "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/fogolycsere-moszka-kijev-haboru?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Moszkva és Kijev befejezte az ezerfős fogolycserét, további 303 katonát tért vissza"
+    "clusterTitle": "Moszkva és Kijev Ezerfős Fogolycserét Zárt Le Sikeresen"
   },
   {
-    "clusterId": "2",
+    "clusterId": "4",
     "articles": [
       {
         "articleId": "BOON_Van_kapcsolat_Ukrajna_és_a_2d08fee2907bf99f6578bdd183a47e3be0a557633ec67e21733ca89c1b04d6e6",
@@ -491,14 +467,6 @@
         "articleOutlet": "Szoljon",
         "articleBias": "Right",
         "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/ukrajna-hazai-ellenzek-kapcsolat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "Kisalföld_Van_kapcsolat_Ukrajna_és_a_2d08fee2907bf99f6578bdd183a47e3be0a557633ec67e21733ca89c1b04d6e6",
-        "articleTitle": "Van kapcsolat Ukrajna és a hazai ellenzék között (videó)",
-        "articleSummary": "Egy átlag Trump-szavazó hallott már Magyarországról és Orbán Viktorról.",
-        "articleOutlet": "Kisalföld",
-        "articleBias": "Right",
-        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/ukrajna-hazai-ellenzek-kapcsolat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "BAMA_Van_kapcsolat_Ukrajna_és_a_2d08fee2907bf99f6578bdd183a47e3be0a557633ec67e21733ca89c1b04d6e6",
@@ -589,10 +557,246 @@
         "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/ukrajna-hazai-ellenzek-kapcsolat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Kapcsolat Ukrajna és a hazai ellenzék között: videós felvétel egy átlag Trump-szavazó véleményéről"
+    "clusterTitle": "\"Kapcsolat Ukrajna és a Magyarországi Ellenzék Között: Trump-támogatók Ismeretei\""
   },
   {
-    "clusterId": "3",
+    "clusterId": "9",
+    "articles": [
+      {
+        "articleId": "Kisalföld_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Újabb_1277_területvédelmi_tartalékos_tett_a758fe12450fee846cb6d44ccab2e9b189bb8b14a066bf520e0b68d94b932596",
+        "articleTitle": "Újabb 1277 területvédelmi tartalékos tett esküt, hogy megvédje hazáját (videó)",
+        "articleSummary": "Egy magyar katonának Magyarország és Magyarország békéje kell, hogy az első legyen – mondta a honvédelmi miniszter.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/teruletvedelmi-tartalekos-esku-honvedseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"1277 Új Területvédelmi Tartalékos Esküt Tett Magyarország Védelmére\""
+  },
+  {
+    "clusterId": "10",
+    "articles": [
+      {
+        "articleId": "Kisalföld_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Habsburg_Ottóról_nyílt_tárlat_az_2615b59f610837100ca0cb3c674b2e371c3e2f258900ecec0959ad2c4efddd41",
+        "articleTitle": "Habsburg Ottóról nyílt tárlat az Oszakai Világkiállítás magyar pavilonjában",
+        "articleSummary": "Panelbeszélgetés és a Habsburg Ottó: Életút és örökség című tárlat várta az Oszakai Világkiállítás magyar pavilonjába látogatókat vasárnap. A kiállításnak, amelyet már több helyszínen is bemutattak, az aktualitását az adta, hogy Habsburg Ottó elkötelezetten támogatta az európai integrációt, és Japánhoz való kötődése is erős volt.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/hazai-kultura/2025/05/habsburg-otto-tarlat-oszakai-vilagkiallitas-magyar-pavilon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"Habsburg Ottó Életútját és Örökségét Bemutató Kiállítás Nyílt az Oszakai Világkiállítás Magyar Pavilonjában\""
+  },
+  {
+    "clusterId": "2",
     "articles": [
       {
         "articleId": "Szoljon_Magyar_Péter_alaposan_leszerepelt_az_9b2503e0b44064153b383f031515f95f38b6d7306acc16178102c4949dff1e9a",
@@ -747,10 +951,10 @@
         "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/magyar-peter-alaposan-leszerepelt-az-erdelyi-turajan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Magyar Péter kudarcai Erdélyi túráján: hibák és érzéketlenség a külhoni magyarokkal szemben"
+    "clusterTitle": "Magyar Péter Erdélyi Túrája: Kínos Bakik és Politikai Kritika"
   },
   {
-    "clusterId": "6",
+    "clusterId": "7",
     "articles": [
       {
         "articleId": "BOON_Brüsszel_Ukrajnába_önti_a_pénzt__01425a55dd20a5c65bd24b9cf78e327c6d89e2642f04d9391b7bcc0b15715299",
@@ -759,14 +963,6 @@
         "articleOutlet": "BOON",
         "articleBias": "Right",
         "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/brusszel-europai-unio-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "ZAOL_Brüsszel_Ukrajnába_önti_a_pénzt__01425a55dd20a5c65bd24b9cf78e327c6d89e2642f04d9391b7bcc0b15715299",
-        "articleTitle": "Brüsszel Ukrajnába önti a pénzt, így taszítja a szakadékba Európát",
-        "articleSummary": "Az Európai Unió, miután Amerika kivonult az ukrajnában dúló  háború támogatásából, új, veszélyes startégiákat fontolgat. A háborúpárti Brüsszel egyik terve, hogy európai országok közvetlenül vásárolnának amerikai fegyvereket, amiket aztán Kijevnek adnának, fenntartva ezzel az ukránok harcképességét. A brüsszeli elit, a bíróság által elítél Ursula von der Leyennel az élén mindent megtesz azért, hogy Európát tönkretegye: további, Oroszországgal szembeni szankciókat fontolgat, Ukrajna gyorsított uniós csatlakozásán dolgozik, és az európai emberek pénzét a Ukrajnába küldené – hívja fel a figyelmet a Magyar Nemzet cikke.",
-        "articleOutlet": "ZAOL",
-        "articleBias": "Right",
-        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/brusszel-europai-unio-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "DUOL_Brüsszel_Ukrajnába_önti_a_pénzt__01425a55dd20a5c65bd24b9cf78e327c6d89e2642f04d9391b7bcc0b15715299",
@@ -881,14 +1077,6 @@
         "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/brusszel-europai-unio-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
-        "articleId": "VEOL_Brüsszel_Ukrajnába_önti_a_pénzt__01425a55dd20a5c65bd24b9cf78e327c6d89e2642f04d9391b7bcc0b15715299",
-        "articleTitle": "Brüsszel Ukrajnába önti a pénzt, így taszítja a szakadékba Európát",
-        "articleSummary": "Az Európai Unió, miután Amerika kivonult az ukrajnában dúló  háború támogatásából, új, veszélyes startégiákat fontolgat. A háborúpárti Brüsszel egyik terve, hogy európai országok közvetlenül vásárolnának amerikai fegyvereket, amiket aztán Kijevnek adnának, fenntartva ezzel az ukránok harcképességét. A brüsszeli elit, a bíróság által elítél Ursula von der Leyennel az élén mindent megtesz azért, hogy Európát tönkretegye: további, Oroszországgal szembeni szankciókat fontolgat, Ukrajna gyorsított uniós csatlakozásán dolgozik, és az európai emberek pénzét a Ukrajnába küldené – hívja fel a figyelmet a Magyar Nemzet cikke.",
-        "articleOutlet": "VEOL",
-        "articleBias": "Right",
-        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/brusszel-europai-unio-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
         "articleId": "VAOL_Brüsszel_Ukrajnába_önti_a_pénzt__01425a55dd20a5c65bd24b9cf78e327c6d89e2642f04d9391b7bcc0b15715299",
         "articleTitle": "Brüsszel Ukrajnába önti a pénzt, így taszítja a szakadékba Európát",
         "articleSummary": "Az Európai Unió, miután Amerika kivonult az ukrajnában dúló  háború támogatásából, új, veszélyes startégiákat fontolgat. A háborúpárti Brüsszel egyik terve, hogy európai országok közvetlenül vásárolnának amerikai fegyvereket, amiket aztán Kijevnek adnának, fenntartva ezzel az ukránok harcképességét. A brüsszeli elit, a bíróság által elítél Ursula von der Leyennel az élén mindent megtesz azért, hogy Európát tönkretegye: további, Oroszországgal szembeni szankciókat fontolgat, Ukrajna gyorsított uniós csatlakozásán dolgozik, és az európai emberek pénzét a Ukrajnába küldené – hívja fel a figyelmet a Magyar Nemzet cikke.",
@@ -897,7 +1085,7 @@
         "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/brusszel-europai-unio-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Brüsszel Ukrajnába önti a pénzt, destabilizálva Európát"
+    "clusterTitle": "\"Brüsszel Új Stratégiái: Európai Támogatás Ukrajnának és Gazdasági Kockázatok\""
   },
   {
     "clusterId": "5",
@@ -1047,48 +1235,10 @@
         "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/orban-viktor-gyermeknap-fagyi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Orbán Viktor Gyermeknap Köszöntése a Közösségi Oldalán"
+    "clusterTitle": "Orbán Viktor Gyermeknapi Üdvözlete a Közösségi Médiában"
   },
   {
-    "clusterId": "11",
-    "articles": [
-      {
-        "articleId": "HAON_Apró_állatok_jelenthetnek_megoldást_a_741edfe08f7136f42f7b24d5c1b9f394b8cd3785481b3344b722ac6bf8b6c210",
-        "articleTitle": "Apró állatok jelenthetnek megoldást a Balaton tisztán tartására?",
-        "articleSummary": "A Balaton élővilága különösen érzékeny.",
-        "articleOutlet": "HAON",
-        "articleBias": "Right",
-        "articleUrl": "https://www.haon.hu/digitalia/2025/05/balaton-tisztan-tartasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "Sonline_Apró_állatok_jelenthetnek_megoldást_a_741edfe08f7136f42f7b24d5c1b9f394b8cd3785481b3344b722ac6bf8b6c210",
-        "articleTitle": "Apró állatok jelenthetnek megoldást a Balaton tisztán tartására?",
-        "articleSummary": "A Balaton élővilága különösen érzékeny.",
-        "articleOutlet": "Sonline",
-        "articleBias": "Right",
-        "articleUrl": "https://www.sonline.hu/digitalia/2025/05/balaton-tisztan-tartasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "DUOL_Apró_állatok_jelenthetnek_megoldást_a_741edfe08f7136f42f7b24d5c1b9f394b8cd3785481b3344b722ac6bf8b6c210",
-        "articleTitle": "Apró állatok jelenthetnek megoldást a Balaton tisztán tartására?",
-        "articleSummary": "A Balaton élővilága különösen érzékeny.",
-        "articleOutlet": "DUOL",
-        "articleBias": "Right",
-        "articleUrl": "https://www.duol.hu/digitalia/2025/05/balaton-tisztan-tartasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "FEOL_Apró_állatok_jelenthetnek_megoldást_a_741edfe08f7136f42f7b24d5c1b9f394b8cd3785481b3344b722ac6bf8b6c210",
-        "articleTitle": "Apró állatok jelenthetnek megoldást a Balaton tisztán tartására?",
-        "articleSummary": "A Balaton élővilága különösen érzékeny.",
-        "articleOutlet": "FEOL",
-        "articleBias": "Right",
-        "articleUrl": "https://www.feol.hu/digitalia/2025/05/balaton-tisztan-tartasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "clusterTitle": "Apró állatok segítenek a Balaton vízminőségének javításában"
-  },
-  {
-    "clusterId": "4",
+    "clusterId": "3",
     "articles": [
       {
         "articleId": "BEOL_Vlagyimir_Putyint_megtámadták_b731e6aaa0c38d7006db1c868b52f1c617f082e5c423711dcbe3872c9adee0be",
@@ -1243,7 +1393,7 @@
         "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/vlagyimir-putyin-tamadas-dron-helikopter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Putyin elleni támadás a Kurszki régióban dróntámadás során"
+    "clusterTitle": "\"Dróntámadás érte Vlagyimir Putyin helikopterét a Kurszki régióban\""
   },
   {
     "clusterId": "8",
@@ -1369,10 +1519,10 @@
         "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/vallasszabadasag-ukrajna-torveny-zelenszkij?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Ukrajna törvényt ír alá az ortodox vallási szervezetek betiltásáról Zelenszkij lépése nemzetközi kritikával"
+    "clusterTitle": "Zelenszkij aláírta a törvényt az ortodox egyházhoz köthető szervezetek betiltásáról Ukrajnában"
   },
   {
-    "clusterId": "7",
+    "clusterId": "6",
     "articles": [
       {
         "articleId": "BEOL_A_rezsicsökkentésre_az_ukrán_tagság_3b289f7985aaa3b8a256dc95bdb5293bf2477233e5ab713c0009aabadbc8b8c4",
@@ -1519,19 +1669,11 @@
         "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/rezsicsokkentes-ukrajna-brusszel-kembotrany-harcosok-klubja-menczer-tamas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Ukrajna EU-csatlakozásának és brüsszeli ukránpárti politikának veszélyei a rezsicsökkentés ellenében (Menczer Tamás interjú)"
+    "clusterTitle": "\"Magyar Rezsicsökkentést Fenyegeti Az Ukrán EU-tagság és Brüsszeli Politika – Menczer Tamás a Kossuth Rádióban\""
   },
   {
-    "clusterId": "10",
+    "clusterId": "12",
     "articles": [
-      {
-        "articleId": "Délmagyar_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
-        "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
-        "articleSummary": "Szeretne spórolni az áramszámlán?  A hűtő okos használatával nemcsak pénzt takaríthatunk meg, hanem a környezetet is kíméljük. Íme, egy híján egy tucat tipp!",
-        "articleOutlet": "Délmagyar",
-        "articleBias": "Right",
-        "articleUrl": "https://www.delmagyar.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
       {
         "articleId": "FEOL_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
         "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
@@ -1539,14 +1681,6 @@
         "articleOutlet": "FEOL",
         "articleBias": "Right",
         "articleUrl": "https://www.feol.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "Sonline_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
-        "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
-        "articleSummary": "Szeretne spórolni az áramszámlán?  A hűtő okos használatával nemcsak pénzt takaríthatunk meg, hanem a környezetet is kíméljük. Íme, egy híján egy tucat tipp!",
-        "articleOutlet": "Sonline",
-        "articleBias": "Right",
-        "articleUrl": "https://www.sonline.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "HAON_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
@@ -1565,28 +1699,12 @@
         "articleUrl": "https://www.szoljon.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
-        "articleId": "BAON_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
-        "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
-        "articleSummary": "Szeretne spórolni az áramszámlán?  A hűtő okos használatával nemcsak pénzt takaríthatunk meg, hanem a környezetet is kíméljük. Íme, egy híján egy tucat tipp!",
-        "articleOutlet": "BAON",
-        "articleBias": "Right",
-        "articleUrl": "https://www.baon.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
         "articleId": "HEOL_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
         "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
         "articleSummary": "Szeretne spórolni az áramszámlán?  A hűtő okos használatával nemcsak pénzt takaríthatunk meg, hanem a környezetet is kíméljük. Íme, egy híján egy tucat tipp!",
         "articleOutlet": "HEOL",
         "articleBias": "Right",
         "articleUrl": "https://www.heol.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "articleId": "BOON_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
-        "articleTitle": "Így spórolhatunk a hűtő használatával: íme, 11 praktikus tipp",
-        "articleSummary": "Szeretne spórolni az áramszámlán?  A hűtő okos használatával nemcsak pénzt takaríthatunk meg, hanem a környezetet is kíméljük. Íme, egy híján egy tucat tipp!",
-        "articleOutlet": "BOON",
-        "articleBias": "Right",
-        "articleUrl": "https://www.boon.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "articleId": "DUOL_Így_spórolhatunk_a_hűtő_használatával__790f16cae1ee32f0f0769606465f675e57534e2280827d722eb79dfa30029ca5",
@@ -1597,6 +1715,6 @@
         "articleUrl": "https://www.duol.hu/hazai-bulvar-celeb/2025/05/huto-sporlas-aram-praktikus-tipp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Hatékony tippek a hűtő okos használatához: takarékoskodjon az áramszámlával és a környezettel"
+    "clusterTitle": "\"Hogyan csökkentsük az áramszámlát a hűtő használatával: 11 tipp\""
   }
 ]
