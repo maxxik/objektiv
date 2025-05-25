@@ -190,7 +190,7 @@ def pairwise_article_comparison(article1, article2, processed_pairs_file):
         return True
 
     prompt = (
-        f"Given the following two articles, determine if they are about the exactly the same topic or not.\n"
+        f"Given the following two articles, determine if they are about the same event or incident.\n"
         f"Article 1: {article1['title']}\n"
         f"{article1['summary']}\n"
         f"Article 2: {article2['title']}\n"
@@ -202,7 +202,7 @@ def pairwise_article_comparison(article1, article2, processed_pairs_file):
     try:
         response = client.chat.completions.create(model="gpt-4.1-nano",
                                                   messages=[{"role": "user", "content": prompt}],
-                                                  max_tokens=100,
+                                                  max_tokens=5,
                                                   temperature=0.7)
         result_str = response.choices[0].message.content
         result = result_str.strip().lower() == "yes"
@@ -228,7 +228,7 @@ def generate_title_for_a_cluster(cluster):
               "When creating a new group, the 'news_group_title' must be a clear, descriptive, and concise summary of the specific event or incident in Hungarian. "
               "Use a neutral, factual tone, similar in style to article headlines. Do NOT use general categories or thematic titles—always refer to the precise event (e.g., 'Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon').\n")
 
-    response = client.chat.completions.create(model="gpt-4.1-nano",
+    response = client.chat.completions.create(model="gpt-4o",
                                               messages=[{"role": "user", "content": prompt}],
                                               max_tokens=50,
                                               temperature=0.7)
@@ -250,7 +250,7 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
     embeddings = generate_embeddings(articles)
 
     # Get semantically similar articles
-    similar_articles, similarity_matrix = get_semantically_similar_articles(embeddings, threshold=0.7)
+    similar_articles, similarity_matrix = get_semantically_similar_articles(embeddings, threshold=0.6)
 
     print_similarity_stats(articles, similar_articles)
 
@@ -260,7 +260,7 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
     total = len(similar_articles)
     for i in range(len(articles)):
         for j in range(i + 1, len(articles)):
-            if similarity_matrix[i][j] > 0.7:
+            if similarity_matrix[i][j] > 0.6:
                 print(f"[{counter}/{total}] Pairwise comparison of articles")
                 counter += 1
                 result = pairwise_article_comparison(articles[i], articles[j], processed_pairs_file)
