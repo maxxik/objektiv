@@ -24,10 +24,17 @@ if __name__ == "__main__":
 
     # copy the clustered articles json to output directory
     clustered_articles_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../artifacts/clustered_articles.json")
-    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"../public/{datetime.now().strftime('%Y-%m-%d')}.json")
+    output_fn = f"{datetime.now().strftime('%Y-%m-%d')}.json"
+    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"../public/{output_fn}")
     with open(clustered_articles_path, 'r', encoding='utf-8') as f:
         clustered_articles = json.load(f)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(clustered_articles, f, ensure_ascii=False, indent=2)
 
     print(f"Clustered articles saved to {output_path}")
+
+    # overwrite ../public/latest.json with the latest clustered articles filename
+    latest_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../public/latest_run.json")
+    with open(latest_path, 'w', encoding='utf-8') as f:
+        json.dump({"latest": output_fn}, f, ensure_ascii=False, indent=2)
+
