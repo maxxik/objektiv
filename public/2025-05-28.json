@@ -1,0 +1,1650 @@
+[
+  {
+    "clusterId": "0",
+    "articles": [
+      {
+        "articleId": "ZAOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Jó_hírrel_jelentkezett_Orbán_Viktor_f941d5cf1bdfbfb7cd54387275a270780b503434aaa15b5f3790621896f46935",
+        "articleTitle": "Jó hírrel jelentkezett Orbán Viktor az állatvédőknek",
+        "articleSummary": "A miniszterelnök közösségi oldalán jelentette be, hogy jelentős összegű támogatást írtak ki az állatvédő szervezetek számára.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/allatvedo-szervezetek-tamogatas-orban-vikor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"Orbán Viktor Jelentős Támogatást Jelentett Be Állatvédő Szervezetek Számára\""
+  },
+  {
+    "clusterId": "6",
+    "articles": [
+      {
+        "articleId": "BEOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Az_európaiak_többsége_elutasítja_a_fc66d3bfd9f98dc7afca8847293c5f96ec3fa1ed60840f57d3a01a33ce7088f8",
+        "articleTitle": "Az európaiak többsége elutasítja a katonai csapatok küldését és Ukrajna felfegyverzését",
+        "articleSummary": "Miközben az európai politikai elit háborús- és fegyverkezési lázban ég, 2025-ben az ukrajnai fegyverszállításokat már több európai polgár ellenzi (49 százalék), mint amennyi támogatja (44 százalék), valamint Ukrajna katonai csapatok küldésével történő megsegítését az uniós megkérdezettek 67 százaléka elutasítja – derül ki a Századvég Európa Projekt-kutatásának legfrissebb eredményeiből.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/katonai-csapatok-kuldese-ukrajna-felfegyverzes-felmeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"2025-re Az Európaiak Többsége Ellenzi Ukrajna Katonai Támogatását\""
+  },
+  {
+    "clusterId": "7",
+    "articles": [
+      {
+        "articleId": "HAON_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Orbán_Viktor__Székelyföld_számíthat_ránk__b7259243bc96ff3614234add64a3ec447576ce951aeb01135967c0f78a8a8df3",
+        "articleTitle": "Orbán Viktor: Székelyföld számíthat ránk!",
+        "articleSummary": "Orbán Viktor miniszterelnök telefonon egyeztetett a Romániai Magyar Demokrata Szövetség (RMDSZ) elnökével a Parajdon kialakult drámai helyzetről.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/orban-viktor-szekelyfold-segitseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Orbán Viktor Discusses Parajd Crisis with RMDSZ Leader"
+  },
+  {
+    "clusterId": "8",
+    "articles": [
+      {
+        "articleId": "VAOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Kiderült__mikor_ülhet_újra_tárgyalóasztalhoz_2ab41214477d90b211031bed272fd2310ea7cc1fbf591b3617da21ed66532bbf",
+        "articleTitle": "Kiderült, mikor ülhet újra tárgyalóasztalhoz Oroszország és Ukrajna",
+        "articleSummary": "Oroszország azt javasolja, hogy június 2-án tartsák Ukrajnával a béketárgyalások második fordulóját Isztambulban – közölte Szergej Lavrov orosz külügyminiszter szerdán.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/oroszorszag-ukrajna-beketargyalas-lavrov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Oroszország és Ukrajna béketárgyalások második fordulója június 2-án Isztambulban"
+  },
+  {
+    "clusterId": "1",
+    "articles": [
+      {
+        "articleId": "DUOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Egy_részeg_fiatal_több_kamaszt_3e430d6e84da9a9c3181bdc37097ef3983d228547c2b5d90c7fe7c8a80ede190",
+        "articleTitle": "Egy részeg fiatal több kamaszt megölt a születésnapi partin (videó)",
+        "articleSummary": "Öt kamasz halt meg az oroszországi Irkutszki területen, mert a túlzott alkoholfogyasztás miatt erőszak tört ki egy születésnapi partin – jelentette szerdán az Interfax orosz hírügynökség.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/nemzetkozi-kek-hirek/2025/05/megolt-reszeg-orosz-fiatal-szuletesnap-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Születésnapi Parti Tragédia: Öt Kamasz Halála Részeg Fiatal Miatt Irkutszkban"
+  },
+  {
+    "clusterId": "9",
+    "articles": [
+      {
+        "articleId": "TEOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Gulyás_Gergely__a_banki_csalások_f4c93cea64e84361cf9f35faa3b273aad9bc4609c41fa0f9a77ed9312f70a87d",
+        "articleTitle": "Gulyás Gergely: a banki csalások mögött nagyrészt az ukrán szervezett bűnözői csoportok állnak (videó)",
+        "articleSummary": "A legfrissebb kormányzati döntéseket Gulyás Gergely Miniszterelnökséget vezető miniszter és Vitályos Eszter kormányszóvivő ismerteti a kormányinfón. A tájékoztatón elhangzott, hogy Orbán Viktor egy munkacsoport megalapításáról döntött, amelynek célja a kibertámadások leállítása, és az ukrán szervezett bűnözés visszaszorítása.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/kormanyinfo-kibercsalasok-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"Orbán Viktor Munkacsoportot Alapít a Kibertámadások és Ukrán Szervezett Bűnözés Ellen\""
+  },
+  {
+    "clusterId": "2",
+    "articles": [
+      {
+        "articleId": "VAOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Szijjártó_Péter__Ukrajna_minden_egyes_a754e6ce3697f8d2f8d5d56b50103036f980b499dcbe85556e394b7f9529aff1",
+        "articleTitle": "Szijjártó Péter: Ukrajna minden egyes törvénymódosítással újabb és újabb jogokat vett el a magyaroktól",
+        "articleSummary": "Szijjártó Péter külügyminiszter a Magyar Nemzet kérdésre elmondta, elszomorító, hogy vannak emberek, akik árulóként próbálják tovább nehezíteni a kárpátaljai magyarok helyzetét, utalva Tseber Roland kijelentéseire.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/szijjarto-peter-ukrajna-torvenymodositas-karpatalja-magyarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Szijjártó Péter: Ukrajnai Törvénymódosítások Tovább Csorbítják a Kárpátaljai Magyarok Jogait"
+  },
+  {
+    "clusterId": "3",
+    "articles": [
+      {
+        "articleId": "Sonline_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Kocsis_Máté__a_Tisza_vezére_7edc81b7b4b2d91be393814eb81cf5c9ff5a9f2a0caa59e72e5c5c7b48e93fe3",
+        "articleTitle": "Kocsis Máté: a Tisza vezére csak terel, mert egyre kínosabb a pártjának az ukrán kémügy",
+        "articleSummary": "– Most nagyon figyeljenek! Azt írja imént az ukrán kémek nagy barátja, Magyar Péter: „A hozzánk eljutó egybehangzó (?) hírek szerint az ukrán kémként letartóztatott Holló Istvánnak rendkívül jó, baráti kapcsolata volt a Fidesz frakció több tagjával és Orbán Viktor egyik családtagjával is. Nos, Kocsis Máté elvtárs, akkor ideje lenne újra összehívni a nemzetbiztonsági bizottságot!” – idézte Kocsis Máté, a Fidesz frakcióvezetője a Tisza Párt vezérét a közösségi oldalán.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/kocsis-mate-tisza-part-ukran-kemugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "\"Kocsis Máté: Fidesz Frakcióvezetője a Tisza Párt Kémügyének Középpontjában\""
+  },
+  {
+    "clusterId": "10",
+    "articles": [
+      {
+        "articleId": "SZON_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Menczer_Tamás__ömlik_ránk_a_d4086979a0f0250dff07b490656798e5fe0a7c47a42de9f38af6959674eb7346",
+        "articleTitle": "Menczer Tamás: ömlik ránk a szeretet a balliberális politikusoktól",
+        "articleSummary": "A Fidesz–KDNP kommunikációs igazgatója a közösségi oldalán posztolt. Menczer Tamás elárulta, hogy Vadai Ágnestől kapott legutóbb „ennyi szeretetet”.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/menczer-tamas-szeretet-vadai-agnes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Menczer Tamás közösségi médiában üzent a balliberális politikusok szeretetéről"
+  },
+  {
+    "clusterId": "4",
+    "articles": [
+      {
+        "articleId": "BAON_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Az_idei_CPAC_Hungary_lesz_071226a69eda46e03d3733c9777caf5f1b3ed99f9e74dc476ba7e66f03a70f39",
+        "articleTitle": "Az idei CPAC Hungary lesz minden idők legszélesebb patrióta összefogása",
+        "articleSummary": "Egy globális összeesküvéssel állunk szemben, eljött az ideje a patrióták korának, annak, hogy a globalista összeesküvésre antiglobalista választ adjunk: ez a 2025-ös CPAC Hungary –mondta az Alapjogokért Központ főigazgatója szerdán Budapesten, az amerikai CPAC Foundation elnökével közösen tartott sajtótájékoztatón.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/cpac-hungary-szantho-miklos-patriota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "CPAC Hungary 2025: A Globális Összeesküvés Elleni Patrióta Összefogás"
+  },
+  {
+    "clusterId": "5",
+    "articles": [
+      {
+        "articleId": "TEOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "ZAOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "ZAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.zaol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "FEOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "FEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.feol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Kisalföld_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BOON_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "BOON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.boon.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Sonline_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "Sonline",
+        "articleBias": "Right",
+        "articleUrl": "https://www.sonline.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "NOOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VAOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "VAOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Szoljon_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "Szoljon",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szoljon.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "KEMMA_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "KEMMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kemma.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Délmagyar_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "Délmagyar",
+        "articleBias": "Right",
+        "articleUrl": "https://www.delmagyar.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HAON_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "VEOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "VEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.veol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "HEOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "HEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.heol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BEOL_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "BEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.beol.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAON_Orbán_Viktor_fogadta_a_georgiai_2c33cee72747ba53300aae028c0f972480606e9c5bf071d7320036a1766f0edb",
+        "articleTitle": "Orbán Viktor fogadta a georgiai kormányfőt",
+        "articleSummary": "Orbán Viktor fogadta Irakli Kobakhidze georgiai kormányfőt a Karmelita kolostorban.",
+        "articleOutlet": "BAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.baon.hu/orszag-vilag/2025/05/orban-viktor-megbeszeles-georgiai-kormanyfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Orbán Viktor találkozott Irakli Kobakhidze georgiai kormányfővel a Karmelita kolostorban"
+  },
+  {
+    "clusterId": "11",
+    "articles": [
+      {
+        "articleId": "NOOL_A_brüsszeli_vezetők_ráeresztenék_az_6b3f8a85692e71219ca14c17768899c1a056b8f8a5759f0c5e507c7447b62a72",
+        "articleTitle": "A brüsszeli vezetők ráeresztenék az ukrán maffiát Európára",
+        "articleSummary": "Nemcsak Európában, hanem az Amerikai Egyesült Államokban is az egyik legjobban szervezett, mereven hierarchizált és legbrutálisabb szervezet az ukrán maffia – árulta el a Magyar Nemzetnek Horváth József. A biztonságpolitikai szakértő elemzésében rámutatott, a brüsszeli vezetők úgy tesznek, mintha az ukrán szervezett bűnözés problémája nem létezne.",
+        "articleOutlet": "NOOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/ukran-maffia-europa-unios-csatlakozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "TEOL_A_brüsszeli_vezetők_ráeresztenék_az_6b3f8a85692e71219ca14c17768899c1a056b8f8a5759f0c5e507c7447b62a72",
+        "articleTitle": "A brüsszeli vezetők ráeresztenék az ukrán maffiát Európára",
+        "articleSummary": "Nemcsak Európában, hanem az Amerikai Egyesült Államokban is az egyik legjobban szervezett, mereven hierarchizált és legbrutálisabb szervezet az ukrán maffia – árulta el a Magyar Nemzetnek Horváth József. A biztonságpolitikai szakértő elemzésében rámutatott, a brüsszeli vezetők úgy tesznek, mintha az ukrán szervezett bűnözés problémája nem létezne.",
+        "articleOutlet": "TEOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/ukran-maffia-europa-unios-csatlakozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "DUOL_A_brüsszeli_vezetők_ráeresztenék_az_6b3f8a85692e71219ca14c17768899c1a056b8f8a5759f0c5e507c7447b62a72",
+        "articleTitle": "A brüsszeli vezetők ráeresztenék az ukrán maffiát Európára",
+        "articleSummary": "Nemcsak Európában, hanem az Amerikai Egyesült Államokban is az egyik legjobban szervezett, mereven hierarchizált és legbrutálisabb szervezet az ukrán maffia – árulta el a Magyar Nemzetnek Horváth József. A biztonságpolitikai szakértő elemzésében rámutatott, a brüsszeli vezetők úgy tesznek, mintha az ukrán szervezett bűnözés problémája nem létezne.",
+        "articleOutlet": "DUOL",
+        "articleBias": "Right",
+        "articleUrl": "https://www.duol.hu/orszag-vilag/2025/05/ukran-maffia-europa-unios-csatlakozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "SZON_A_brüsszeli_vezetők_ráeresztenék_az_6b3f8a85692e71219ca14c17768899c1a056b8f8a5759f0c5e507c7447b62a72",
+        "articleTitle": "A brüsszeli vezetők ráeresztenék az ukrán maffiát Európára",
+        "articleSummary": "Nemcsak Európában, hanem az Amerikai Egyesült Államokban is az egyik legjobban szervezett, mereven hierarchizált és legbrutálisabb szervezet az ukrán maffia – árulta el a Magyar Nemzetnek Horváth József. A biztonságpolitikai szakértő elemzésében rámutatott, a brüsszeli vezetők úgy tesznek, mintha az ukrán szervezett bűnözés problémája nem létezne.",
+        "articleOutlet": "SZON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.szon.hu/orszag-vilag/2025/05/ukran-maffia-europa-unios-csatlakozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "BAMA_A_brüsszeli_vezetők_ráeresztenék_az_6b3f8a85692e71219ca14c17768899c1a056b8f8a5759f0c5e507c7447b62a72",
+        "articleTitle": "A brüsszeli vezetők ráeresztenék az ukrán maffiát Európára",
+        "articleSummary": "Nemcsak Európában, hanem az Amerikai Egyesült Államokban is az egyik legjobban szervezett, mereven hierarchizált és legbrutálisabb szervezet az ukrán maffia – árulta el a Magyar Nemzetnek Horváth József. A biztonságpolitikai szakértő elemzésében rámutatott, a brüsszeli vezetők úgy tesznek, mintha az ukrán szervezett bűnözés problémája nem létezne.",
+        "articleOutlet": "BAMA",
+        "articleBias": "Right",
+        "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/ukran-maffia-europa-unios-csatlakozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Title: Horváth József: Az ukrán maffia veszélye és a brüsszeli vezetők közömbössége Európában"
+  }
+]
