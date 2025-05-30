@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "16",
+    "clusterId": "17",
     "articles": [
       {
         "articleId": "Index_Több_banknak_is_elege_lett__7bb2ec9a531ee51e4bf678e79b75f28cdada5ac77f3fe74b0999a46bc3264ea0",
@@ -67,7 +67,7 @@
         "articleUrl": "https://telex.hu/gazdasag/2025/05/30/alkotmanybirosag-alkotmanyellenes-alaptorveny-ellenes-lakossagi-kamatstop"
       }
     ],
-    "clusterTitle": "Bankok az Alkotmánybírósághoz fordulnak a kamatstop alaptörvény-ellenessége miatt"
+    "clusterTitle": "Bankok az Alkotmánybírósághoz fordulnak a kamatstop alaptörvény-ellenességének megállapításáért"
   },
   {
     "clusterId": "0",
@@ -385,10 +385,10 @@
         "articleUrl": "https://24.hu/belfold/2025/05/30/surjan-orsolya-orszagos-tisztifoorvos/"
       }
     ],
-    "clusterTitle": "Müller Cecília nyugdíjba vonulása és Orbán Viktor köszönetnyilvánítása"
+    "clusterTitle": "Müller Cecília nyugdíjba vonul, Orbán Viktor köszönetet mondott neki"
   },
   {
-    "clusterId": "35",
+    "clusterId": "30",
     "articles": [
       {
         "articleId": "RTL_PSG_vs__Inter___BL_döntő_d2fead34740099824521719581f85c3f6134f7c2d426cc7a4b5fcd37e4098537",
@@ -423,10 +423,10 @@
         "articleUrl": "https://infostart.hu/sport/2025/05/30/simone-inzaghit-nem-erdekli-evi-30-millio-euro-most-a-bl-donto-a-lenyeg"
       }
     ],
-    "clusterTitle": "BL-döntő Münchenben: PSG és Inter összecsapás az RTL élő közvetítésében"
+    "clusterTitle": "PSG és Inter történelmi BL-döntője élőben az RTL-en: szakértői elemzések és exkluzív bejelentkezések Münchenből"
   },
   {
-    "clusterId": "13",
+    "clusterId": "14",
     "articles": [
       {
         "articleId": "Origo_A_Veszprém_szenzációs_játékkal_fordított_5d630cd0f52a18dd8561d0501768d971c86be8f34febf34d385b931103f03a22",
@@ -493,10 +493,10 @@
         "articleUrl": "https://index.hu/sport/kezilabda/2025/05/30/veszprem-szeged-kezilabda-bajnoki-donto-elso-merkozes-magyarorszag/"
       }
     ],
-    "clusterTitle": "Veszprém Fordított és Nyert az Első Meccsen a Szeged Elleni Kézilabda Döntőben"
+    "clusterTitle": "Veszprém fordított és legyőzte a Szegedet a férfi kézilabda döntő első meccsén 34-32-re"
   },
   {
-    "clusterId": "20",
+    "clusterId": "21",
     "articles": [
       {
         "articleId": "Világgazdaság_Elakadtak_az_amerikai_kínai_vámtárgyalások__be_310dfa975da67c850592644010315a02da9f0649a3c3029cc192492d31eae82d",
@@ -547,7 +547,7 @@
         "articleUrl": "https://mandiner.hu/kulfold/2025/05/trump-kemenyen-odaporkolt-kinanak"
       }
     ],
-    "clusterTitle": "Az amerikai-kínai kereskedelmi feszültségek eszkalálódása Trump és Hszi közreműködésével"
+    "clusterTitle": "Trump és Hszi részvételére van szükség az elakadt amerikai-kínai vámtárgyalásokon"
   },
   {
     "clusterId": "6",
@@ -713,10 +713,10 @@
         "articleUrl": "https://www.baon.hu/helyi-kozelet/2025/05/villamosmernok-kepzes-neumann-janos-egyetem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "\"Új Villamosmérnöki Alapszak indul a Kecskeméti Neumann János Egyetemen 2026-tól\""
+    "clusterTitle": "Kecskeméten indul új villamosmérnöki alapszak 2026-tól a Neumann János Egyetemen"
   },
   {
-    "clusterId": "4",
+    "clusterId": "5",
     "articles": [
       {
         "articleId": "VAOL_Prostitúcióra_kényszerített_két_lányt_egy_7daa436fe44f84dcf79f9302f8ea104c81ffea8b2296ae76459fbd8093882153",
@@ -887,10 +887,10 @@
         "articleUrl": "https://www.teol.hu/hazai-kek-hirek/2025/05/prostitucior-kenyszerites-lanyok-javitointezet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "\"Javítóintézet Igazgatója és Élettársa Prostitúcióra Kényszerített Két Lányt\""
+    "clusterTitle": "Javítóintézet igazgatója és élettársa gyermekotthonban felnőtt lányokat kényszerítettek prostitúcióra"
   },
   {
-    "clusterId": "15",
+    "clusterId": "16",
     "articles": [
       {
         "articleId": "Index_A_köztársasági_elnök_nem_írta_a83328dc42ea96010f199b86b4865f8f684bb7798bdfdd7d2acf14212dc48904",
@@ -957,40 +957,10 @@
         "articleUrl": "https://444.hu/2025/05/30/sulyok-tamas-visszadobta-a-parlamentnek-a-veszelyhelyzeti-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
-    "clusterTitle": "Sulyok Tamás köztársasági elnök megvétózta a veszélyhelyzeti rendeletek törvényi szintre emelését"
+    "clusterTitle": "Sulyok Tamás visszaküldte a parlamentnek a veszélyhelyzeti rendeleteket érintő törvényt alaptörvény-ellenesség miatt"
   },
   {
-    "clusterId": "36",
-    "articles": [
-      {
-        "articleId": "Index_Újabb_sportági_mérföldkőként_magyar_aranyérem_86031421872f1ccae2c46175f137a90d6f8340fe5a9f3f1a0ca6991dbfdc9bd1",
-        "articleTitle": "Újabb sportági mérföldkőként magyar aranyérem a női úszók kieséses sprintversenyében is",
-        "articleSummary": "Fábián Bettina a versenyszám első magyar győztese.",
-        "articleOutlet": "Index",
-        "articleBias": "Left",
-        "articleUrl": "https://index.hu/sport/uszas/2025/05/30/uszas-uszok-nyilt-vizi-eb-europa-bajnoksag-noi-sprintverseny-fabian-bettina-mihalyvari-farkas-viktoria-juhasz-janka/"
-      },
-      {
-        "articleId": "Origo_Fábián_Bettina_aranyérmes_a_nyíltvízi_e488c05b54f4fbc70ce0b7ba3e63ee0970690ee6d34d36060d3ea0977855b720",
-        "articleTitle": "Fábián Bettina aranyérmes a nyíltvízi úszó Eb-n",
-        "articleSummary": "A magyar versenyző a nők kieséses sprintversenyben diadalmaskodott.",
-        "articleOutlet": "Origo",
-        "articleBias": "Right",
-        "articleUrl": "https://www.origo.hu/sport/sport-egyeni/2025/05/fabian-bettina-aranyermes-nyiltvizi-uszo-eb"
-      },
-      {
-        "articleId": "Délmagyar_Most_debütált_ez_a_versenyszám_cf0ae2bc9d01ef55202091a456b2a9bc6cbbebe961cb41c7bc5f9437c2f384e9",
-        "articleTitle": "Most debütált ez a versenyszám az Eb-n, egyből szegedi győztese lett",
-        "articleSummary": "Megnyerte a kieséses sprintversenyt. Fábián Bettina Európa-bajnoki címet szerzett a nyílt vízi úszók horvátországi Európa-bajnokságán.",
-        "articleOutlet": "Délmagyar",
-        "articleBias": "Right",
-        "articleUrl": "https://www.delmagyar.hu/helyi-sport/2025/05/fabian-bettina-eb-aranyerem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "clusterTitle": "Fábián Bettina Aranyérmes a Női Nyíltvízi Úszók Európa-bajnokságán a Kieséses Sprintversenyben"
-  },
-  {
-    "clusterId": "37",
+    "clusterId": "35",
     "articles": [
       {
         "articleId": "Telex_2_7_milliárdos_nyeresége_lett_Varga_9f94e6a78acc99ab80fdb6dbf0ac531d04d87e4a97d8ae67e2223c71adc78023",
@@ -1017,7 +987,7 @@
         "articleUrl": "https://magyarnarancs.hu/belpol/hiaba-nem-tajekozodik-jogbol-varga-judit-az-ot-jogtudoskent-foglalkoztato-munkahelye-elegedett-vele-276561"
       }
     ],
-    "clusterTitle": "Varga Judit Részmunkaidős Munkájával Jelentős Nyereséget Termel a Tigra Kft.-nek"
+    "clusterTitle": "Varga Judit új munkahelyén jelentős nyereségnövekedést ért el a Tigra Kft."
   },
   {
     "clusterId": "3",
@@ -1127,6 +1097,14 @@
         "articleUrl": "https://www.teol.hu/orszag-vilag/2025/05/a-legnagyobb-maffia-ma-ukrajnaban-a-politika?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
+        "articleId": "Nyugat_Orbán_Viktor__Ukrajna_egy_veszélyes_d9816b29d772a8e33dd0b2bf8decd15b316af634f6d700b9263b95a821d54452",
+        "articleTitle": "Orbán Viktor: Ukrajna egy veszélyes ország",
+        "articleSummary": "Kétségkívül az a jó, ha az Ukránokat kívül tartjuk az EU-ból - szögezte le a miniszterelnök.",
+        "articleOutlet": "Nyugat",
+        "articleBias": "Left",
+        "articleUrl": "https://www.nyugat.hu/cikk/367430_orban_viktor_ukrajna_egy_veszelyes_orszag"
+      },
+      {
         "articleId": "VAOL_A_legnagyobb_maffia_ma_Ukrajnában_4f0a93ae9cf2fdf66e470b1d84233e53ac39ec638e1715181ef04530c9dfe8a0",
         "articleTitle": "A legnagyobb maffia ma Ukrajnában a politika",
         "articleSummary": "„A Magyarország elleni fokozódó ukrán kibertámadások és az ottani maffia veszélye valós és semmiképpen sem elhanyagolható” – mutatott rá Ukrajna tervezett uniós csatlakozása kapcsán Földi László titkosszolgálati szakértő a Magyar Nemzetnek nyilatkozva.",
@@ -1207,7 +1185,7 @@
         "articleUrl": "https://www.bama.hu/orszag-vilag/2025/05/a-legnagyobb-maffia-ma-ukrajnaban-a-politika?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "1. Ukrajna tervezett uniós csatlakozása: Földi László a kibertámadások és a maffia veszélyeiről\n2. Orbán Viktor: A magyarországi online"
+    "clusterTitle": "Ukrajna tervezett uniós csatlakozása kapcsán a magyar szakértők az ukrán kibertámadások és maffia veszélyére figyelmeztetnek"
   },
   {
     "clusterId": "8",
@@ -1333,10 +1311,10 @@
         "articleUrl": "https://tenyek.hu/cikkek/orban-viktor-miniszterelnok-fogadta-alice-weidelt?utm_campaign=tv2_tenyek&utm_medium=referral&utm_source=megyei"
       }
     ],
-    "clusterTitle": "Orbán Viktor találkozott Alice Weidellel, az AfD társelnökével Budapesten"
+    "clusterTitle": "Orbán Viktor miniszterelnök Budapesten fogadta Alice Weidelt, az AfD társelnökét"
   },
   {
-    "clusterId": "19",
+    "clusterId": "20",
     "articles": [
       {
         "articleId": "DUOL_Erdőtűz__már_a_második_tartományban_1f03a9f926bb1c3cb625902f34b38c4ef30433c84fecb8f0202f173854cfdad6",
@@ -1395,10 +1373,10 @@
         "articleUrl": "https://www.kemma.hu/nemzetkozi-kek-hirek/2025/05/erdotuz-szuksegallapot-kanada?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Szükségállapot Kanadában: Erdőtűz miatt evakuálás Saskatchewanban és Manitobában"
+    "clusterTitle": "Szükségállapot Saskatchewanban is az erdőtüzek miatt, négyezer ember kitelepítve"
   },
   {
-    "clusterId": "14",
+    "clusterId": "13",
     "articles": [
       {
         "articleId": "PestiSrácok_Szentkirályi_Alexandra__Egy_év_sem_467fedcd29065d3be047c41c25ff0a796eb067110398068bb487c40ffa03c9fd",
@@ -1465,7 +1443,7 @@
         "articleUrl": "https://magyarnarancs.hu/belpol/budapest-egyelore-meguszta-nem-inkasszalta-az-allamkincstar-a-szamlait-276562"
       }
     ],
-    "clusterTitle": "Budapest Pénzügyi Válsága: Inkasszó és Politikai Feszültségek a Tisza-Karácsony Koalíció Idején"
+    "clusterTitle": "Fidesz frakcióvezetője szerint a Tisza-Karácsony koalíció csődbe vitte Budapestet egy év alatt"
   },
   {
     "clusterId": "11",
@@ -1559,10 +1537,10 @@
         "articleUrl": "https://rtl.hu/hatartalan-szerelem/2025/05/30/jobbat-erdemelsz-dontes-bali-lajko-norbi-hanna"
       }
     ],
-    "clusterTitle": "1. Ticiána döntése: Spanyolországi randevúk után Péterrel képzeli el a jövőt\n2. Határtalan szerelem finálé: Ticiána Pétert választotta\n3."
+    "clusterTitle": "Ticiána Pétert választotta a Határtalan szerelem fináléjában"
   },
   {
-    "clusterId": "9",
+    "clusterId": "10",
     "articles": [
       {
         "articleId": "DUOL_50_év_szabadságvágy___Mandoki_d62ba2b22921077e99f0cd2ae77b927b2f63d09e0030921449856c5840a7f429",
@@ -1669,7 +1647,7 @@
         "articleUrl": "https://www.teol.hu/hazai-kultura/2025/05/mandoki-soulmates-megakoncert-budai-var-szabadsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "\"Mandoki Soulmates Megakoncert a Budai Várban: 50 Év Szabadságvágy Ünnepe\""
+    "clusterTitle": "Mandoki Soulmates 50. évfordulós megakoncert a budai Várban"
   },
   {
     "clusterId": "1",
@@ -1979,10 +1957,10 @@
         "articleUrl": "https://pestisracok.hu/georgpolitika-napi-egymillio-eurot-meger-a-biztonsag-es-az-identitasunk-megorzese/"
       }
     ],
-    "clusterTitle": "1. Mateusz Morawiecki: Lengyelország baloldali kormánya Brüsszelt szolgálja\n2. Gulyás Gergely: Magyarország nem követi a brüsszeli irányt\n3"
+    "clusterTitle": "Orbán Viktor Budapesten fogadta Hrisztijan Mickoszki északmacedón miniszterelnököt a CPAC Hungary konferencia alkalmából"
   },
   {
-    "clusterId": "32",
+    "clusterId": "33",
     "articles": [
       {
         "articleId": "Népszava_Az_NNGYK_szerint_nem_kockázatos_87691ebad60a8189e66ed0cf5d7253f174873483e8924d3d48be35c3d901af39",
@@ -2017,10 +1995,10 @@
         "articleUrl": "https://infostart.hu/belfold/2025/05/30/megvan-a-szennyezes-miatt-bezaratott-ovoda-vizsgalatanak-eredmenye"
       }
     ],
-    "clusterTitle": "Rákospalotai óvoda légszennyezési vizsgálatának eredménye: NNGYK szerint nincs többletkockázat, de a gyerekek jelenléte nem ajánlott"
+    "clusterTitle": "Szövőgyár utcai óvoda légszennyezés vizsgálatának eredménye: nincs többletkockázat, de nem javasolt az épület használata"
   },
   {
-    "clusterId": "44",
+    "clusterId": "46",
     "articles": [
       {
         "articleId": "BAMA_Páratlan_tanya__harmóniában_a_természettel__999c5785b6da5fdae43ff6ce1f93ee38a0c35cfcceafd9b2bada80969b1b3419",
@@ -2047,10 +2025,10 @@
         "articleUrl": "https://www.teol.hu/pr/2025/05/paratlan-tanya-harmoniaban-a-termeszettel-kozossegben-az-elmenyekkel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Rácz Tanya: Három Generációs Családi Élményközpont Az Orfű–Abaliget Dombvidéken"
+    "clusterTitle": "Rácz Tanya: Baranya népszerű élményközpontja a természet ölelésében"
   },
   {
-    "clusterId": "38",
+    "clusterId": "36",
     "articles": [
       {
         "articleId": "Világgazdaság_Drogbotrány_miatt_lemondott_a_cseh_014d808981a9d790775b4c80be09ea15f930f2d956306a6334c59557ce509b38",
@@ -2077,10 +2055,10 @@
         "articleUrl": "https://index.hu/kulfold/2025/05/30/csehorszag-miniszter-igazsagugy-lemondas-drogkereskedelem/"
       }
     ],
-    "clusterTitle": "Cseh igazságügyi miniszter lemondása egy volt drogkereskedőtől kapott ajándék miatt"
+    "clusterTitle": "Cseh igazságügyi miniszter lemondott, miután 468 bitcoint fogadott el egy volt drogkereskedőtől"
   },
   {
-    "clusterId": "39",
+    "clusterId": "37",
     "articles": [
       {
         "articleId": "Világgazdaság_Véget_ért_Emmanuel_Macron_délkelet_ázsiai_d30a3419021c4d2cd066925cf8284485496a7bae7e80fa066576d73a2ab76a89",
@@ -2107,10 +2085,40 @@
         "articleUrl": "https://hu.euronews.com/my-europe/2025/05/29/kulturalis-partnersegrol-szolo-megallapodast-irt-ala-franciaorszag-es-indonezia"
       }
     ],
-    "clusterTitle": "Emmanuel Macron délkelet-ázsiai körútja: új szövetségek és megállapodások a szuperhatalmak ellensúlyozására"
+    "clusterTitle": "Emmanuel Macron délkelet-ázsiai körútja: új szövetségek és együttműködések Vietnamtól Szingapúrig"
   },
   {
-    "clusterId": "5",
+    "clusterId": "42",
+    "articles": [
+      {
+        "articleId": "Infostart_Hivatalossá_vált_Frimpong_érkezése_48126955e41ca20e6a08c745e04aec513cddc2a706d09eb0c1ac97dc1d3059ad",
+        "articleTitle": "Hivatalossá vált Frimpong érkezése",
+        "articleSummary": "Szoboszlai Dominik klubja, az angol bajnok Liverpool pénteken bejelentette, hogy leigazolta Jeremie Frimpongot a Bayer Leverkusen labdarúgócsapatától.<p><img alt=\"\" border=\"0\" src=\"https://infostart.hu/images/site/articles/lead/2025/05/1748625019-Eh4d1lrsB_md.jpg\" /></p>",
+        "articleOutlet": "Infostart",
+        "articleBias": "Neutral",
+        "articleUrl": "https://infostart.hu/sport/2025/05/30/hivatalossa-valt-frimpong-erkezese"
+      },
+      {
+        "articleId": "Telex_A_Liverpool_leigazolta_Jeremie_Frimpongot_bcd7538faf5e88f3eac2f7440d01422aa28fbeece1e6025522d82b9dcf4ce3a8",
+        "articleTitle": "A Liverpool leigazolta Jeremie Frimpongot a Bayer Leverkusentől",
+        "articleSummary": "A hírek szerint a játékosért 14 milliárd forintnyi összeget fizetett Szoboszlaiék klubja.",
+        "articleOutlet": "Telex",
+        "articleBias": "Neutral",
+        "articleUrl": "https://telex.hu/sport/2025/05/30/liverpool-fc-jeremie-frimpong-bayer-leverkusen"
+      },
+      {
+        "articleId": "Origo_Szoboszlai_csapata_bejelentette_a_sztárjátékos_cbcb361a22d8c8b6ee920a5d7bcd1c9781e1d81f3ed9d819123db4f9b9b79538",
+        "articleTitle": "Szoboszlai csapata bejelentette a sztárjátékos leigazolását",
+        "articleSummary": "A Liverpool edzője rendkívül jó benyomást tett a Leverkusentől igazolt játékosra.",
+        "articleOutlet": "Origo",
+        "articleBias": "Right",
+        "articleUrl": "https://www.origo.hu/sport/sport-futball/2025/05/szoboszlai-liverpool-jeremie-frimpong-igazolas"
+      }
+    ],
+    "clusterTitle": "Liverpool hivatalosan bejelentette Jeremie Frimpong leigazolását a Bayer Leverkusentől"
+  },
+  {
+    "clusterId": "4",
     "articles": [
       {
         "articleId": "BAON_Ismét_lebukott_a_Tisza_Párt__d7cc32634c9d841583fb35cbb559c31b1a903de2dba2c1bb2a91940f3f2d989a",
@@ -2281,7 +2289,7 @@
         "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/kollar-kinga-uj-botrany-tisza-part?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Title: Kollár Kinga és a Tisza Párt újabb botránya az Európai Beruházási Banknál"
+    "clusterTitle": "Kollár Kinga és a Tisza Párt újabb botránya az Európai Beruházási Bankkal"
   },
   {
     "clusterId": "2",
@@ -2397,6 +2405,14 @@
         "articleOutlet": "Origo",
         "articleBias": "Right",
         "articleUrl": "https://www.origo.hu/itthon/2025/05/unios-csatlakozas-ukrajna-szalay-bobrovniczky"
+      },
+      {
+        "articleId": "Tények_Orbán_Viktor__az_árréscsökkentést_új_da998e6432f76d0e01523d25f39d69a55d3e60d09320124efafcee8b19066a31",
+        "articleTitle": "Orbán Viktor: az árréscsökkentést új termékekre is be fogjuk vezetni, ha szükséges",
+        "articleSummary": "Az árrésszabályozást fenn kell tartani, mert az indokolatlan áremelésekkel szemben meg kell védeni az embereket - részletezte az MTI, a miniszterelnök pénteki, a Kossuth rádió Jó reggelt, Magyarország! című műsorában elhangzott beszédét, aki hozzátette, hogy ha szükséges, akkor újabb termékekre fogják bevezetni az intézkedést.",
+        "articleOutlet": "Tények",
+        "articleBias": "Right",
+        "articleUrl": "https://tenyek.hu/cikkek/orban-viktor-az-arrescsokkentest-uj-termekekre-is-be-fogjuk-vezetni-ha-szukseges?utm_campaign=tv2_tenyek&utm_medium=referral&utm_source=megyei"
       },
       {
         "articleId": "DUOL_Átlépte_az_1_6_milliót_a_90e0a126bacd3869ab1c71e8f84a3249f568d8c3a76102bf9d95a10b98c138ce",
@@ -2519,6 +2535,14 @@
         "articleUrl": "https://www.vaol.hu/orszag-vilag/2025/05/voks-2025-szavazatok-szama-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
+        "articleId": "Origo_Orbán_Viktor__Ha_kell__újabb_789e8219cb152b493d4d2954b8c8658326d9785907f9d5a922a26dc8d7b02926",
+        "articleTitle": "Orbán Viktor: Ha kell, újabb termékekre is bevezetik az árrésstopot",
+        "articleSummary": "Az árrésstop „úgy működik, mint a karikacsapás”.",
+        "articleOutlet": "Origo",
+        "articleBias": "Right",
+        "articleUrl": "https://www.origo.hu/itthon/2025/05/orban-viktor-arresstop-ujabb-termekek"
+      },
+      {
         "articleId": "SZON_Átlépte_az_1_6_milliót_a_90e0a126bacd3869ab1c71e8f84a3249f568d8c3a76102bf9d95a10b98c138ce",
         "articleTitle": "Átlépte az 1,6 milliót a Voks 2025 szavazatok száma (videó)",
         "articleSummary": "Az Ukrajna uniós csatlakozásáról szóló véleménynyilvánító szavazásra több mint 1,6 millió voks érkezett eddig.",
@@ -2567,10 +2591,10 @@
         "articleUrl": "https://www.nool.hu/orszag-vilag/2025/05/voks-2025-szavazatok-szama-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "\"Ukrajna EU-csatlakozásának véleménynyilvánítása: Több mint 1,6 millió szavazat a Voks 2025 keretében\""
+    "clusterTitle": "Voks 2025: Több mint 1,6 millió szavazat érkezett Ukrajna uniós csatlakozásáról"
   },
   {
-    "clusterId": "50",
+    "clusterId": "38",
     "articles": [
       {
         "articleId": "RTL_Vaszkó_Andrásnak_gyerekkori_álma_vált_53895b3a7a3ca9be2bed479b4639a739aedd5049d3132a217da0e83bfee07a9f",
@@ -2597,7 +2621,7 @@
         "articleUrl": "https://24.hu/elet-stilus/2025/05/30/rtl-meteorologus-vaszko-andras-tavozas/"
       }
     ],
-    "clusterTitle": "Vaszkó András Távozik az RTL-től: Négy és Fél Év Után Búcsúzik a Meteorológus"
+    "clusterTitle": "Vaszkó András, az RTL meteorológusa négy és fél év után távozik a csatornától"
   },
   {
     "clusterId": "27",
@@ -2635,10 +2659,72 @@
         "articleUrl": "https://rtl.hu/fokusz/2025/05/30/rubint-rella-novothny-soma-valas"
       }
     ],
-    "clusterTitle": "Rubint Rella és Novothny Soma válása: A 3 éves házasság vége és jövőbeli tervek"
+    "clusterTitle": "Rubint Réka és Schobert Norbi válása: véget ért a házasságuk a nyilvánosság előtt"
   },
   {
-    "clusterId": "18",
+    "clusterId": "19",
+    "articles": [
+      {
+        "articleId": "Világgazdaság_Drámai_fordulatok_a_vámháborúban__ítéletet_25e599252ccc9770eaa2f756c31d4ea06df632f0a4abf6c0af493311bb9f51d7",
+        "articleTitle": "Drámai fordulatok a vámháborúban, ítéletet mondanak a hitelminősítők – Trendmutató",
+        "articleSummary": "Minden fontos gazdasági esemény, egy helyen.",
+        "articleOutlet": "Világgazdaság",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vg.hu/trendmutato/2025/05/vamhaboru-hitelminosito-trendmutato-vg"
+      },
+      {
+        "articleId": "Népszava_Érik_Magyarország_leminősítése__már_péntek_afe90e6ac628caba150256a429df3358f1b16690023b8df982f5a2bda95b8bf0",
+        "articleTitle": "Érik Magyarország leminősítése, már péntek éjjel jöhet a kellemetlen meglepetés",
+        "articleSummary": "A Moody’s fél évvel ezelőtt már rontotta a magyar államadósság kilátásait, nem kizárt, hogy jön a következő lépés. Ha nem most, akkor fél év múlva.",
+        "articleOutlet": "Népszava",
+        "articleBias": "Left",
+        "articleUrl": "https://nepszava.hu/3281778_moodys-leminosites-magyarorszag-gazdasag-pentek-kellemetlen-meglepetes"
+      },
+      {
+        "articleId": "Világgazdaság_Ítéletet_mondott_Magyarországról_a_Moody_s_e162c4ff41cafa70ca14f75bff2c8f35f89d2fca6f533ea8b1166c0f8eeca371",
+        "articleTitle": "Ítéletet mondott Magyarországról a Moody's",
+        "articleSummary": "Nincs változás, vártnak megfelelően döntött a Moody's.",
+        "articleOutlet": "Világgazdaság",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2025/05/moodys-adosbesorolas-magyarorszag-felulvizsgalat"
+      },
+      {
+        "articleId": "HVG_A_Moody_s_1_est_jósol_idénre_89203f1b2a4510ae6a5f5ed3b74dbf98ebf523bba2a668b2786542b467500e96",
+        "articleTitle": "A Moody’s 1-est jósol idénre a magyar gazdaságnak",
+        "articleSummary": "A Moody’s nemzetközi hitelminősítő szerint Magyarország végleg eleshet a zárolt uniós források nagy részétől. Félő, hogy a kormány választási osztogatásba kezd, miközben a gazdaság idén mindössze egy százalékkal nő. A hitelbesoroláson ezzel együtt nem rontottak, de az ahhoz kapcsolt, leminősítésre utaló negatív kilátás sem változott.",
+        "articleOutlet": "HVG",
+        "articleBias": "Left",
+        "articleUrl": "http://hvg.hu/gazdasag/20250531_A-Moodys-2025-tavasz-novekedes-besorolas-negativ-ebx#rss"
+      },
+      {
+        "articleId": "Portfolio_Csapkodják_a_dollárt_és_a_0197c5b1fdb6cb7f45d059810768fcd2ed0d9edce37e3c171f91081163eddddd",
+        "articleTitle": "Csapkodják a dollárt és a forint sem tud erősödni",
+        "articleSummary": "<p>A tegnapi nap a vámháborúval kapcsolatos hírek mozgatták a piacokat, ma viszont igazi adatdömping várható a nemzetközi fronton. A dollárban nagy mozgások várhatóak emiatt. A forint 403,7 örül kezdi a napot az euróval és 356 felett a dollárral szemben. Ma este a Moody's hitelminősítő döntését várja a piac a magyar adósságbesorolással kapcsolatban.</p>",
+        "articleOutlet": "Portfolio",
+        "articleBias": "Left",
+        "articleUrl": "https://www.portfolio.hu/deviza/20250530/csapkodjak-a-dollart-es-a-forint-sem-tud-erosodni-764781"
+      },
+      {
+        "articleId": "Nyugat_Akár_már_ma_éjszaka_jöhet_304086ff0983ce238ab5819ae3ba7d20496e018cfe16e101363d0418e098c05f",
+        "articleTitle": "Akár már ma éjszaka jöhet Magyarország leminősítése",
+        "articleSummary": "Vagy ha nem most, akkor egy fél év múlva, de akkor szinte biztosan. Ha ez bekövetkezik, Magyarország a befektetési kategória legalsó szintjére kerülne a Moody’s-nál.",
+        "articleOutlet": "Nyugat",
+        "articleBias": "Left",
+        "articleUrl": "https://www.nyugat.hu/cikk/367529_akar_mar_ma_ejszaka_johet_magyarorszag"
+      },
+      {
+        "articleId": "Portfolio_Megjött_a_Moody_s_friss_ítélete_7215095e2308e9678e73e1b095eada85cf982f1a988242ce1c823b010a185791",
+        "articleTitle": "Megjött a Moody's friss ítélete Magyarországról",
+        "articleSummary": "<p>Megerősítette Magyarország eddig is érvényben lévő Baa2 adósbesorolását a Moody's Investors Service péntek késő esti döntésével. Figyelmeztető jelzés viszont, hogy a negatv kilátás is fennmaradt. A hitelminősítő közleményében hangoztatja, hogy ez a mostani közzététel nem jelent hitelminősítési intézkedést, az időszakos felülvizsgálat zárult most le. A legnagyobb kockázatként az uniós források jelentős részének végleges elbukását és a parlamenti választások előtt esetlegesen meglóduló költségvetési kiköltekezést azonosították.</p>",
+        "articleOutlet": "Portfolio",
+        "articleBias": "Left",
+        "articleUrl": "https://www.portfolio.hu/gazdasag/20250530/megjott-a-moodys-friss-itelete-magyarorszagrol-764949"
+      }
+    ],
+    "clusterTitle": "Moody's megerősítette Magyarország Baa2 adósbesorolását, negatív kilátás maradt"
+  },
+  {
+    "clusterId": "15",
     "articles": [
       {
         "articleId": "Portfolio_Elon_Musk_távozik_Washingtonból__de_8037870b3a9ea0327664b3518d5df530b883ca95a13e2ed11f8388e52cfae050",
@@ -2663,6 +2749,14 @@
         "articleOutlet": "444",
         "articleBias": "Left",
         "articleUrl": "https://444.hu/2025/05/30/musk-elbucsuzott-a-feher-haztol-de-trump-szerint-azert-meg-visszaterhet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "articleId": "Világgazdaság_Elon_Musk_búcsút_mond_Washingtonnak__86d022897f4c089f55a54d8dbe375e33badd76e0158eaa5ef676912200f65d4d",
+        "articleTitle": "Elon Musk búcsút mond Washingtonnak: közös sajtótájékoztatót tart Trumppal a Fehér Házban",
+        "articleSummary": "A DOGE élén a világ leggazdagabb embere magára haragította kormányzati dolgozók tízezreit, míg a költségcsökkentést követelő szavazópolgárok körében óriási népszerűségre tett szert.",
+        "articleOutlet": "Világgazdaság",
+        "articleBias": "Right",
+        "articleUrl": "https://www.vg.hu/kozelet/2025/05/elon-musk-trump-washington-doge"
       },
       {
         "articleId": "Euronews__HU__Elon_Musk_távozik_a_Trump_adminisztrációból_40763ef1105559dfca71f651d3bf15445322e00b16583ffaec43a70e45c97a2e",
@@ -2697,10 +2791,10 @@
         "articleUrl": "https://mandiner.hu/kulfold/2025/05/elon-musk-jokora-monoklival-a-szeme-alatt-vette-at-kulonleges-bucsuajandekat-donald-trumptol-video"
       }
     ],
-    "clusterTitle": "Elon Musk távozik a Trump-kormányból, de tanácsadóként marad, miközben rejtélyes monoklival búcsúzik a Fehér Házban."
+    "clusterTitle": "Elon Musk távozott a Trump-kormányból, monoklival jelent meg a búcsúztatón a Fehér Házban"
   },
   {
-    "clusterId": "40",
+    "clusterId": "49",
     "articles": [
       {
         "articleId": "KEMMA_Itt_a_döntősök_listája___4d691c5320fe0b89940e538dfd4e9df1547acf029fd82560c5b83e18097e5679",
@@ -2727,7 +2821,37 @@
         "articleUrl": "https://www.origo.hu/teve/2025/05/miss-world-donto-katzenbach-andrea"
       }
     ],
-    "clusterTitle": "Title: Magyarországi versenyzők a Miss World Hungary 2025 döntőjében - Komárom-Esztergom és Tapolca is képviselteti magát!"
+    "clusterTitle": "Miss World Hungary 2025 döntősei között két Komárom-Esztergom megyei és egy tapolcai lány is szerepel"
+  },
+  {
+    "clusterId": "39",
+    "articles": [
+      {
+        "articleId": "HAON_Kiváló_pedagógusokat_díjaztak_Debrecenben___913562271bad6fd6864cb68b1450d3fe64c34ef0571421d42e4ec75fa7142c1d",
+        "articleTitle": "Kiváló pedagógusokat díjaztak Debrecenben – fotókkal",
+        "articleSummary": "Debreceni tanárokat díjaztak! Megtartották a pedagógusnapi ünnepséget Debrecenben, melynek keretében rengeteg oktatásban dolgozó munkáját ismerték el.",
+        "articleOutlet": "HAON",
+        "articleBias": "Right",
+        "articleUrl": "https://www.haon.hu/helyi-kozelet/2025/05/pedagogusnap-debrecen-tankerulet-dijatado?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "articleId": "Dunakanyar_Régió_Rétvári_Bence__pedagógusnak_lenni_olyan_cc5ad88471dd74b575b24a97f5837e0d1526a050e569f39dad7c22c1891f9e5a",
+        "articleTitle": "Rétvári Bence: pedagógusnak lenni olyan hivatás, amelyhez türelem és szív kell",
+        "articleSummary": "Pedagógusnak lenni olyan hivatás, amelyhez erő, türelem és szív kell nap mint nap &#8211; mondta a Belügyminisztérium parlamenti államtitkára pénteken, a pedagógusnap alkalmából rendezett budapesti ünnepségen, amelyen állami elismeréseket adtak át. Rétvári Bence azt mondta: aki a tanári hivatást választja, szívből teszi, mert a gyerekekkel, a következő generációval szeretne foglalkozni. A múlt tanításával a jövőt &#8230;",
+        "articleOutlet": "Dunakanyar Régió",
+        "articleBias": "Right",
+        "articleUrl": "https://www.dunakanyarregio.hu/2025/05/30/retvari-bence-pedagogusnak-lenni-olyan-hivatas-amelyhez-turelem-es-sziv-kell/"
+      },
+      {
+        "articleId": "Kisalföld_Pedagógusnap__a_nyugdíjba_vonulókat_és_010fdd900738502bf09677545b3b859457a32f07890ca7a9353462ec0fa62aac",
+        "articleTitle": "Pedagógusnap: a nyugdíjba vonulókat és a kiválókat köszöntötték – mutatjuk kik az idei díjazottak",
+        "articleSummary": "A városi pedagógusnap keretében köszöntötték a nyugdíjba vonulókat és elismeréseket is átadtak. Díjazták Rácz Adrien,  Baloghné Márkus Anita, Pozsgai Eszter és Pólyáné Dr. Hanusz Borbála pedagógusok kiváló munkáját.",
+        "articleOutlet": "Kisalföld",
+        "articleBias": "Right",
+        "articleUrl": "https://www.kisalfold.hu/helyi-kozelet/2025/05/pedagogus-nyugdij-dijazottak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "clusterTitle": "Debreceni pedagógusok és nyugdíjba vonulók díjazása a pedagógusnap alkalmából"
   },
   {
     "clusterId": "28",
@@ -2765,10 +2889,10 @@
         "articleUrl": "https://pestisracok.hu/bojte-csaba-sirnak-a-devai-gyermekek-a-parajdi-sobanya-miatt/"
       }
     ],
-    "clusterTitle": "Parajdi Sóbánya Katasztrófa: Árvízveszély és Közösségi Összefogás"
+    "clusterTitle": "Parajdi sóbánya veszélyben: vízbetörések és összefogás az árvíz okozta károk enyhítésére"
   },
   {
-    "clusterId": "25",
+    "clusterId": "26",
     "articles": [
       {
         "articleId": "BorsOnline__Olyan__mint_a_Balaton__csak_1f5c38bb21033567763b6410b91eb47f0352b81e7da856b3193abf312c043699",
@@ -2811,45 +2935,7 @@
         "articleUrl": "https://metropol.hu/aktualis/2025/05/orban-viktor-parajd-segitseg"
       }
     ],
-    "clusterTitle": "Parajdi Sóbányát Ért Katasztrófa: Orbán Viktor Támogatást Ígér a Helyieknek és a Magyar Közösségnek"
-  },
-  {
-    "clusterId": "30",
-    "articles": [
-      {
-        "articleId": "HVG_Bíróság_elé_állt_a_férfi__1722be76f8777453a7f7408e852085906ca322a64ab94aa96b6c3008816983b6",
-        "articleTitle": "Bíróság elé állt a férfi, aki autóval gázolt a Liverpool bajnoki címét ünneplők tömegébe",
-        "articleSummary": "Még tart a nyomozás, így a vádpontok is változhatnak. Az érdemi tárgyalás novemberben kezdődhet.",
-        "articleOutlet": "HVG",
-        "articleBias": "Left",
-        "articleUrl": "http://hvg.hu/vilag/20250530_liverpool-bajnoki-parade-tomegbe-hajto-autos-birosag#rss"
-      },
-      {
-        "articleId": "Infostart_Fegyverként_használta_járművét_a_Liverpool_bcdf40022bc4846aff133bcb6279010d2d85c045864fe239d191325afb538307",
-        "articleTitle": "Fegyverként használta járművét a Liverpool bajnoki parádéján tömegbe hajtó autós",
-        "articleSummary": "Az ügyész szerint \"fegyverként használta járművét\" annak az autónak a vezetője, amely a Liverpool FC labdarúgócsapatának bajnoki győzelmét ünneplő hétfői parádén a tömegbe hajtott.<p><img alt=\"\" border=\"0\" src=\"https://infostart.hu/images/site/articles/lead/2025/05/1748319975-6l7DEaldW_md.jpg\" /></p>",
-        "articleOutlet": "Infostart",
-        "articleBias": "Neutral",
-        "articleUrl": "https://infostart.hu/kulfold/2025/05/30/fegyverkent-hasznalta-jarmuvet-a-liverpool-bajnoki-paradejan-tomegbe-hajto-autos"
-      },
-      {
-        "articleId": "Telex_Szándékosan_fegyverként_használta_autóját_a_c15ffb6f743e7aeb098034c04c7a9db76ca9b9f9640a1ecbbd1ceb6bd72bfdcd",
-        "articleTitle": "Szándékosan fegyverként használta autóját a Liverpool bajnoki parádéján tömegbe hajtó sofőr az ügyész szerint",
-        "articleSummary": "A vád képviselője szerint a férfi az útjába kerülőknek direkt akart sérüléseket okozni.",
-        "articleOutlet": "Telex",
-        "articleBias": "Neutral",
-        "articleUrl": "https://telex.hu/kulfold/2025/05/30/liverpool-tomegbe-hajto-autos-ugyeszseg"
-      },
-      {
-        "articleId": "Euronews__HU__Nem_csak_szándékos_súlyos_testi_1012bc05e64d79c2be53fbbdfa793aec6f2fc55cc60df35cab25a9747485b3b9",
-        "articleTitle": "Nem csak szándékos súlyos testi sértéssel vádolják a liverpooli gázolót",
-        "articleSummary": "Több vádpontról is beszélt az illetékes főügyész az 53 éves Paul Doyle pár nappal ezelőtti gázolásáról nyilatkozva. A férfi autójával belehajtott az ünneplő tömegbe hétfőn Liverpoolban. Szemtanúk beszámolói alapján is kizárható, hogy baleset lett volna.",
-        "articleOutlet": "Euronews (HU)",
-        "articleBias": "Neutral",
-        "articleUrl": "https://hu.euronews.com/my-europe/2025/05/30/nem-csak-szandekos-sulyos-testi-sertessel-vadoljak-a-liverpooli-gazolot"
-      }
-    ],
-    "clusterTitle": "Liverpooli Parádén Tömegbe Hajtó Sofőr Bíróság Előtt: Szándékos Gázolás Vádjával Illetik Paul Doyle-t"
+    "clusterTitle": "Orbán Viktor támogatást ígért Parajdnak és az ott élő magyaroknak a sóbányát ért katasztrófa után"
   },
   {
     "clusterId": "52",
@@ -2879,7 +2965,7 @@
         "articleUrl": "https://www.beol.hu/helyi-kek-hirek/2025/05/tuzolto-lencsesi-lakotelep-mercedes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Halálos Baleset és Tűzeset Dévaványa Közelében: Kisbusz Fának Ütközött, Mercedes Lángra Kapott"
+    "clusterTitle": "Kisbusz ütközött fának Körösladány és Dévaványa között: egy halott, több sérült"
   },
   {
     "clusterId": "7",
@@ -3037,10 +3123,40 @@
         "articleUrl": "https://www.boon.hu/hazai-kultura/2025/05/agnes-denes-idokapszula-varoliget?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "\"Agnes Denes Időkapszulát Helyezett el a Városligetben a Jövő Generációinak\""
+    "clusterTitle": "Időkapszulát helyeztek el Agnes Denes kiállításához kapcsolódóan a Városligetben"
   },
   {
-    "clusterId": "23",
+    "clusterId": "44",
+    "articles": [
+      {
+        "articleId": "Infostart_Fegyverként_használta_járművét_a_Liverpool_bcdf40022bc4846aff133bcb6279010d2d85c045864fe239d191325afb538307",
+        "articleTitle": "Fegyverként használta járművét a Liverpool bajnoki parádéján tömegbe hajtó autós",
+        "articleSummary": "Az ügyész szerint \"fegyverként használta járművét\" annak az autónak a vezetője, amely a Liverpool FC labdarúgócsapatának bajnoki győzelmét ünneplő hétfői parádén a tömegbe hajtott.<p><img alt=\"\" border=\"0\" src=\"https://infostart.hu/images/site/articles/lead/2025/05/1748319975-6l7DEaldW_md.jpg\" /></p>",
+        "articleOutlet": "Infostart",
+        "articleBias": "Neutral",
+        "articleUrl": "https://infostart.hu/kulfold/2025/05/30/fegyverkent-hasznalta-jarmuvet-a-liverpool-bajnoki-paradejan-tomegbe-hajto-autos"
+      },
+      {
+        "articleId": "Telex_Szándékosan_fegyverként_használta_autóját_a_c15ffb6f743e7aeb098034c04c7a9db76ca9b9f9640a1ecbbd1ceb6bd72bfdcd",
+        "articleTitle": "Szándékosan fegyverként használta autóját a Liverpool bajnoki parádéján tömegbe hajtó sofőr az ügyész szerint",
+        "articleSummary": "A vád képviselője szerint a férfi az útjába kerülőknek direkt akart sérüléseket okozni.",
+        "articleOutlet": "Telex",
+        "articleBias": "Neutral",
+        "articleUrl": "https://telex.hu/kulfold/2025/05/30/liverpool-tomegbe-hajto-autos-ugyeszseg"
+      },
+      {
+        "articleId": "Euronews__HU__Nem_csak_szándékos_súlyos_testi_1012bc05e64d79c2be53fbbdfa793aec6f2fc55cc60df35cab25a9747485b3b9",
+        "articleTitle": "Nem csak szándékos súlyos testi sértéssel vádolják a liverpooli gázolót",
+        "articleSummary": "Több vádpontról is beszélt az illetékes főügyész az 53 éves Paul Doyle pár nappal ezelőtti gázolásáról nyilatkozva. A férfi autójával belehajtott az ünneplő tömegbe hétfőn Liverpoolban. Szemtanúk beszámolói alapján is kizárható, hogy baleset lett volna.",
+        "articleOutlet": "Euronews (HU)",
+        "articleBias": "Neutral",
+        "articleUrl": "https://hu.euronews.com/my-europe/2025/05/30/nem-csak-szandekos-sulyos-testi-sertessel-vadoljak-a-liverpooli-gazolot"
+      }
+    ],
+    "clusterTitle": "Liverpooli parádén tömegbe hajtó sofőrt szándékos gázolással vádolják az ügyészek"
+  },
+  {
+    "clusterId": "24",
     "articles": [
       {
         "articleId": "Mandiner_Hatalmas_magyar_siker_Németországban___b7f87391fce8f4c49c7210146b20941f15b50843750bfe1296488f1b32c068e7",
@@ -3091,10 +3207,10 @@
         "articleUrl": "https://www.feol.hu/helyi-sport/2025/05/torna-czifra-bettina-lili-ezust?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Czifra Bettina Lili ezüstérmes felemáskorláton a lipcsei torna Európa-bajnokságon"
+    "clusterTitle": "Czifra Bettina Lili ezüstérmes felemás korláton a lipcsei torna Európa-bajnokságon"
   },
   {
-    "clusterId": "17",
+    "clusterId": "18",
     "articles": [
       {
         "articleId": "TEOL_Több_mint_ezer_drogériai_és_e26ab209225b4d595bcd0bffcf49ad41502504fdcb5336dfedb4a96f58d6fad5",
@@ -3161,10 +3277,10 @@
         "articleUrl": "https://www.baon.hu/hazai-gazdasag/2025/05/spar-arcsokkenes-drogeriai-haztartasi-termek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "SPAR Áruházlánc: Több Mint Ezer Termék Árcsökkentése Május 29-től"
+    "clusterTitle": "SPAR üzletekben csökkent több mint ezer drogériai és háztartási termék ára"
   },
   {
-    "clusterId": "41",
+    "clusterId": "40",
     "articles": [
       {
         "articleId": "Index_Váratlan_helyen_bukkant_fel_Azahriah__1b7bca418dcf094d1173da8d24df8a5ae5d79156f29d2ba2d68697f03bf01529",
@@ -3191,10 +3307,10 @@
         "articleUrl": "https://www.borsonline.hu/celeb/2025/05/azahriah-luna-kozos-kep-kritika"
       }
     ],
-    "clusterTitle": "Azahriah Váratlan Megjelenése és Meglepetés Fotója Kedvesével"
+    "clusterTitle": "Azahriah és barátnője váratlan fotóval lepte meg a rajongókat, ami felkapott lett az interneten."
   },
   {
-    "clusterId": "24",
+    "clusterId": "25",
     "articles": [
       {
         "articleId": "BorsOnline_Bejelentette_a_Liverpool_a_nagy_177d7b346a847de005432a79a8a8abc9ae95116e36e14714d56f03402d6b8a91",
@@ -3237,7 +3353,7 @@
         "articleUrl": "https://metropol.hu/sport/2025/05/kerkez-milos-az-ideny-alomcsapataban-a-szurkoloknal"
       }
     ],
-    "clusterTitle": "Kerkez Milos Liverpoolba Igazolhat: A Védő Szurkolói Álma Teljesülhet"
+    "clusterTitle": "Kerkez Milos a Liverpool új igazolása lett"
   },
   {
     "clusterId": "47",
@@ -3267,7 +3383,7 @@
         "articleUrl": "https://hu.euronews.com/2025/05/30/izrael-hamasz-egyesult-allamok-tuzszuneti-javaslat-tuszok-witkoff"
       }
     ],
-    "clusterTitle": "Title: A Hamász elutasította az Egyesült Államok legújabb gázai tűzszüneti javaslatát"
+    "clusterTitle": "Hamász elutasította az amerikai tűzszüneti javaslatot Izrael beleegyezése ellenére"
   },
   {
     "clusterId": "22",
@@ -3321,10 +3437,10 @@
         "articleUrl": "https://24.hu/belfold/2025/05/30/tisza-part-penzugyi-beszamolo-2024/"
       }
     ],
-    "clusterTitle": "Tisza Párt 2024-es pénzügyi beszámolója: Magánszemélyek adományai domináltak, visszautasított támogatás is szerepel"
+    "clusterTitle": "A Tisza Párt 2024-es pénzügyi beszámolójából kiderült: több támogatás érkezett magánszemélyektől, mint a Fideszhez"
   },
   {
-    "clusterId": "51",
+    "clusterId": "50",
     "articles": [
       {
         "articleId": "DUOL_Hétvégére_gyökeres_változás_jön_az_2a512a234baed86ac39b74e601a2786b8da5375ee3bb3d3d498e28a61a643b3e",
@@ -3351,10 +3467,10 @@
         "articleUrl": "https://www.kemma.hu/helyi-idojaras/2025/05/hetvegi-idojaras-nyari-ido?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Hétvégi Időjárás: Nyárias Meleg és Záporok Várhatóak"
+    "clusterTitle": "Változékony hétvégi időjárás: kánikula és záporok várhatók"
   },
   {
-    "clusterId": "46",
+    "clusterId": "41",
     "articles": [
       {
         "articleId": "Tények_Szemmel_vert_egy_autótolvaj_Siófokon__87b57096179b3a18d328642f9f887b028f40d15e35de7b6f4ef244630630d709",
@@ -3381,10 +3497,10 @@
         "articleUrl": "https://www.vaol.hu/helyi-kek-hirek/2025/05/dobbenetes-video-szombathely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Title: Siófoki Autótolvaj Különleges Módszere: Szemmel Verés - Videó\n\nTitle: Figyelmetlen Autóst Csak Őrangyala Mentett Meg a Kanyarod"
+    "clusterTitle": "Felelőtlen sofőr átvágott mindenen Szombathely határában - Döbbenetes videó"
   },
   {
-    "clusterId": "31",
+    "clusterId": "34",
     "articles": [
       {
         "articleId": "Origo_A_Hámori_Lucát_megverő_Iman_6d00791a1d15bae3e728ca5c3bfc55992e6027ce13cda405058895eac731a65c",
@@ -3419,10 +3535,10 @@
         "articleUrl": "https://mandiner.hu/sport/2025/05/hatalmas-pofon-helifnek-kotelezo-nemi-vizsgalatot-vezetnek-be-az-okolvivoknal"
       }
     ],
-    "clusterTitle": "Kötelező Nemi Vizsgálat Bevezetése a World Boxing Versenyeken: Iman Helif Ügye és A Szabálymódosítás Hatásai"
+    "clusterTitle": "World Boxing kötelező nemi vizsgálatot vezet be a versenyeken, Iman Helif részvétele függ a teszteredménytől"
   },
   {
-    "clusterId": "10",
+    "clusterId": "9",
     "articles": [
       {
         "articleId": "Index_Kész_tervekkel_ül_asztalhoz_Ukrajna_00ab2f445473b7240599e7b188770a37c813505eec7d6cd851aaaa9567af5333",
@@ -3447,6 +3563,14 @@
         "articleOutlet": "Mandiner",
         "articleBias": "Right",
         "articleUrl": "https://mandiner.hu/kulfold/2025/05/varatlan-bejelentes-feltamadt-a-remeny-a-bekere-egy-asztalhoz-ulhet-putyin-zelenszkij-es-trump"
+      },
+      {
+        "articleId": "Portfolio_Megvan_a_következő_orosz_ukrán_tárgyalás_657192949b77d50a54084147fe9f790ad3d675bf7f980b4136fee815b99e74a6",
+        "articleTitle": "Megvan a következő orosz–ukrán tárgyalás időpontja, de még rengeteg a kérdés – Háborús híreink pénteken",
+        "articleSummary": "<p>Oroszország június 2-ára tervezi az Ukrajnával folytatott tűzszüneti tárgyalások következő körét, csütörtökön bejelentették a tervezett delegáció névsorát is. A lista nem változott az előző tárgyaláshoz képest, a küldöttséget ugyanúgy Vlagyimir Putyin orosz elnök egyik ideológusa, Vlagyimir Megyinszkij vezeti, ami azt mutatja, hogy a Kreml továbbra is viszonylag alacsony szinten tárgyalna, ez pedig megkérdőjelezi tárgyalási hajlandóságának komolyságát. Ukrajna egyelőre nem válaszolt az orosz felvetésre. Cikkünk folyamatosan frissül az ukrajnai háború és a lezárására irányuló törekvések aktualitásaival.</p>",
+        "articleOutlet": "Portfolio",
+        "articleBias": "Left",
+        "articleUrl": "https://www.portfolio.hu/global/20250530/megvan-a-kovetkezo-orosz-ukran-targyalas-idopontja-de-meg-rengeteg-a-kerdes-haborus-hireink-penteken-764751"
       },
       {
         "articleId": "Népszava_Dmitrij_Peszkov__Oroszország_hétfőn_Isztambulban_900432ead328568a8a2bdf79c3fe4470a9eeec5b32a9b3e68673f2db0212c2a9",
@@ -3521,10 +3645,10 @@
         "articleUrl": "https://pestisracok.hu/bekulnenek-az-oroszok-isztambulban-de-zelenszkij-szerint-bloffolnek/"
       }
     ],
-    "clusterTitle": "Isztambuli Béketárgyalások: Putyin, Zelenszkij és Trump Találkozója Lehetősége és Tűzszüneti Egyeztetések"
+    "clusterTitle": "Isztambulban találkozik hétfőn az orosz és ukrán delegáció a tűzszüneti tárgyalások folytatására, de Zelenszkij szerint Oroszország szabotál"
   },
   {
-    "clusterId": "26",
+    "clusterId": "31",
     "articles": [
       {
         "articleId": "Sonline_Három_osztályban_is_véget_ér_d0832b58f4bdf1057c6625e115d34a8ac37562fbf225d71b27f9393e1a08d3d2",
@@ -3559,10 +3683,10 @@
         "articleUrl": "https://www.nool.hu/helyi-sport/2025/05/tet-nelkuli-merkozesek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Véget ér a vármegyei labdarúgó-bajnokságok szezonja"
+    "clusterTitle": "A vármegyei labdarúgó-bajnokságok záró fordulói és a bajnokavatások hétvégéje"
   },
   {
-    "clusterId": "21",
+    "clusterId": "23",
     "articles": [
       {
         "articleId": "Economx_Menetelt_a_4iG__a_profitszámokat_ab2df2c60e4d5dd63f1219866038bac48cc213d577cc6bff5b37f2cb05bbda2d",
@@ -3613,10 +3737,10 @@
         "articleUrl": "https://www.portfolio.hu/uzlet/20250530/ketszamjegyu-bevetelnovekedes-a-4ig-nel-765007"
       }
     ],
-    "clusterTitle": "4iG Első Negyedéves Jelentés: Jelentős Bevételnövekedés és Egyszeri Tételek Hatása a Profitra"
+    "clusterTitle": "4iG: Az első negyedéves eredményeket egyszeri tételek befolyásolták, de a bevételek jelentősen nőttek."
   },
   {
-    "clusterId": "54",
+    "clusterId": "55",
     "articles": [
       {
         "articleId": "Telex_Néhány_lépésről_nézte_végig_a_d85c872f196dc2af2a6f27b766f4fb370dea35a14b3f35d1b5543f0dbabcfe36",
@@ -3643,10 +3767,10 @@
         "articleUrl": "https://mandiner.hu/belfold/2025/05/dobbenetes-jelenet-a-blahan-letepertek-a-bkk-egyik-noi-munkatarsat-mikozben-tarsa-csak-allt-es-nezte-video"
       }
     ],
-    "clusterTitle": "BKK Női Biztonsági Őrét Támadás Éri a Blaha Lujza Téren, Kollégája Tétlenül Nézi"
+    "clusterTitle": "BKK női rendészét leteperték a 4-6-os megállójában, kollégája nem avatkozott közbe"
   },
   {
-    "clusterId": "33",
+    "clusterId": "29",
     "articles": [
       {
         "articleId": "Index_Nyilvánosságra_hozta_a_győri_polgármester_7c6a9ff759416d52952e242312c7d18da62755ca856fc2c63ee5ffb3cd4d4140",
@@ -3681,7 +3805,7 @@
         "articleUrl": "https://www.nyugat.hu/cikk/367469_a_gyori_polgarmester_nyilvanossagra_hozta_a_titkos"
       }
     ],
-    "clusterTitle": "Győr Polgármestere Nyilvánosságra Hozta a Korábban Titkosnak Vélt Audi-Szerződést"
+    "clusterTitle": "Győr polgármestere közzétette a Borkai által kötött, eddig titkosnak hitt Audi-szerződést"
   },
   {
     "clusterId": "12",
@@ -3759,10 +3883,10 @@
         "articleUrl": "https://www.portfolio.hu/gazdasag/20250530/dramai-felvetelek-erkeztek-parajdrol-ezek-lehettek-a-sobanya-utolso-orai-765005"
       }
     ],
-    "clusterTitle": "Parajdi Sóbánya Katasztrófa: A Természeti és Gazdasági Veszteség Hatásai"
+    "clusterTitle": "Parajdi sóbánya katasztrófa: a víz alatt eltűnt turisztikai látványosság és gazdasági hatásai Székelyföldre"
   },
   {
-    "clusterId": "43",
+    "clusterId": "45",
     "articles": [
       {
         "articleId": "BorsOnline_Itt_a_legújabb_őrület__Most_6081ccf5e2a8a9be5a7a8251ade6cc67d0e81a820cff9ed9cc8c77dfedd52ea1",
@@ -3789,10 +3913,10 @@
         "articleUrl": "https://www.origo.hu/teve/2025/05/sydney-sweeney-bliss-szappan-furdoviz"
       }
     ],
-    "clusterTitle": "Title: Sydney Sweeney Fürdővize Felkavarja az Internetet"
+    "clusterTitle": "Sydney Sweeney fürdővizet kezdett árusítani, vegyes fogadtatás mellett"
   },
   {
-    "clusterId": "42",
+    "clusterId": "43",
     "articles": [
       {
         "articleId": "Világgazdaság_Döntött_az_amerikai_Legfelsőbb_Bíróság__6e7866eab728e4f9d358f99c9f8cb66bf705f772b681921e9caee14bb05315bd",
@@ -3819,10 +3943,10 @@
         "articleUrl": "https://pestisracok.hu/az-amerikai-legfelsobb-birosag-jovahagyta-a-trump-kormany-donteset-az-atmeneti-vedelem-megszunteteserol-tobb-szazezer-latin-amerikai-eseteben/"
       }
     ],
-    "clusterTitle": "Az amerikai Legfelsőbb Bíróság jóváhagyta Trump bevándorlásellenes intézkedéseit: Több százezer latin-amerikai bevándorló kitoloncolása várható"
+    "clusterTitle": "Az amerikai Legfelsőbb Bíróság engedélyezte Trump számára több mint félmillió latin-amerikai bevándorló kitoloncolását"
   },
   {
-    "clusterId": "45",
+    "clusterId": "54",
     "articles": [
       {
         "articleId": "Blikk_Kitört_foggal_és_véres_orral_814d266f6691cd8aee9963da3fabc46c360b470fd645b6df918ef89439605ff4",
@@ -3849,45 +3973,7 @@
         "articleUrl": "https://www.origo.hu/teve/2025/05/lost-evangeline-lilly-baleset"
       }
     ],
-    "clusterTitle": "Evangeline Lilly súlyos balesete: Kitört fog és véres orr a tengerparti esés után"
-  },
-  {
-    "clusterId": "29",
-    "articles": [
-      {
-        "articleId": "Népszava_Érik_Magyarország_leminősítése__már_péntek_afe90e6ac628caba150256a429df3358f1b16690023b8df982f5a2bda95b8bf0",
-        "articleTitle": "Érik Magyarország leminősítése, már péntek éjjel jöhet a kellemetlen meglepetés",
-        "articleSummary": "A Moody’s fél évvel ezelőtt már rontotta a magyar államadósság kilátásait, nem kizárt, hogy jön a következő lépés. Ha nem most, akkor fél év múlva.",
-        "articleOutlet": "Népszava",
-        "articleBias": "Left",
-        "articleUrl": "https://nepszava.hu/3281778_moodys-leminosites-magyarorszag-gazdasag-pentek-kellemetlen-meglepetes"
-      },
-      {
-        "articleId": "Világgazdaság_Ítéletet_mondott_Magyarországról_a_Moody_s_e162c4ff41cafa70ca14f75bff2c8f35f89d2fca6f533ea8b1166c0f8eeca371",
-        "articleTitle": "Ítéletet mondott Magyarországról a Moody's",
-        "articleSummary": "Nincs változás, vártnak megfelelően döntött a Moody's.",
-        "articleOutlet": "Világgazdaság",
-        "articleBias": "Right",
-        "articleUrl": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2025/05/moodys-adosbesorolas-magyarorszag-felulvizsgalat"
-      },
-      {
-        "articleId": "Nyugat_Akár_már_ma_éjszaka_jöhet_304086ff0983ce238ab5819ae3ba7d20496e018cfe16e101363d0418e098c05f",
-        "articleTitle": "Akár már ma éjszaka jöhet Magyarország leminősítése",
-        "articleSummary": "Vagy ha nem most, akkor egy fél év múlva, de akkor szinte biztosan. Ha ez bekövetkezik, Magyarország a befektetési kategória legalsó szintjére kerülne a Moody’s-nál.",
-        "articleOutlet": "Nyugat",
-        "articleBias": "Left",
-        "articleUrl": "https://www.nyugat.hu/cikk/367529_akar_mar_ma_ejszaka_johet_magyarorszag"
-      },
-      {
-        "articleId": "Portfolio_Megjött_a_Moody_s_friss_ítélete_7215095e2308e9678e73e1b095eada85cf982f1a988242ce1c823b010a185791",
-        "articleTitle": "Megjött a Moody's friss ítélete Magyarországról",
-        "articleSummary": "<p>Megerősítette Magyarország eddig is érvényben lévő Baa2 adósbesorolását a Moody's Investors Service péntek késő esti döntésével. Figyelmeztető jelzés viszont, hogy a negatv kilátás is fennmaradt. A hitelminősítő közleményében hangoztatja, hogy ez a mostani közzététel nem jelent hitelminősítési intézkedést, az időszakos felülvizsgálat zárult most le.</p>",
-        "articleOutlet": "Portfolio",
-        "articleBias": "Left",
-        "articleUrl": "https://www.portfolio.hu/gazdasag/20250530/megjott-a-moodys-friss-itelete-magyarorszagrol-764949"
-      }
-    ],
-    "clusterTitle": "Moody's Magyarország hitelminősítési kilátásairól és besorolásáról szóló legújabb döntései"
+    "clusterTitle": "Evangeline Lilly súlyos balesetet szenvedett: kitört foggal és véres orral találtak rá a tengerparton"
   },
   {
     "clusterId": "48",
@@ -3917,10 +4003,10 @@
         "articleUrl": "https://www.vaol.hu/helyi-kek-hirek/2025/05/negy-jarmu-utkozott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "clusterTitle": "Title: Tömegbaleset és teljes útlezárás Bakonyszentkirálynál  \nTitle: Kamion defektje után három autót tarolt le a dunántúli főúton  \nTitle: Négy j"
+    "clusterTitle": "Tömegbaleset miatt teljes útzár Bakonyszentkirály közelében"
   },
   {
-    "clusterId": "49",
+    "clusterId": "51",
     "articles": [
       {
         "articleId": "SZON__Mérhetetlen_fájdalmat_érzünk____az_d54533fdf99f2efbd9761d81cb973b58898f4b73647d4f6e4fa2a164d8cf4257",
@@ -3947,10 +4033,10 @@
         "articleUrl": "https://www.borsonline.hu/aktualis/2025/05/sportbaleset-elhunyt-focistamate-gyujtes"
       }
     ],
-    "clusterTitle": "Title: \"Országos Gyász és Támogatás Kiss Máté Bence Családjának a Tragédia Után\""
+    "clusterTitle": "Cigánd és sportegyesülete gyűjtést szervez az elhunyt fiatal futballista, Kiss Máté Bence családjának támogatására"
   },
   {
-    "clusterId": "34",
+    "clusterId": "32",
     "articles": [
       {
         "articleId": "Telex_Három_év_börtönre_ítélték_az_4c38ba0eb799097dabadb49c8532b171ee1e28a689c8a188a5a68a8ae73e074d",
@@ -3985,7 +4071,7 @@
         "articleUrl": "http://hvg.hu/gazdasag/20250530_Harom-ev-letoltendot-kapott-Torocskei-Istvan#rss"
       }
     ],
-    "clusterTitle": "Töröcskei István három év börtönbüntetést kapott a Széchenyi Bank fiktív hiteleinek ügyében"
+    "clusterTitle": "Töröcskei Istvánt három év börtönre ítélték fiktív hitelek miatt"
   },
   {
     "clusterId": "53",
@@ -4015,6 +4101,6 @@
         "articleUrl": "https://hu.euronews.com/2025/05/29/amerikai-vizumok-visszavonasa-usa-ban-tanulo-kinai-diakok-harvard-hongkong-rubio-egyetem"
       }
     ],
-    "clusterTitle": "Az USA elkezdi visszavonni a kínai diákok vízumait a Kínai Kommunista Párttal való kapcsolatok miatt"
+    "clusterTitle": "Az USA megkezdi a kínai diákok vízumainak visszavonását kritikus területeken való tanulmányok miatt"
   }
 ]
