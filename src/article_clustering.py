@@ -226,7 +226,7 @@ def generate_title_for_a_cluster(cluster):
     # Generate a title using OpenAI
     prompt = (f"Generate a title for the following articles:\n{combined_articles}"
               "The title must be a clear, objective, descriptive, and concise summary of the specific event or incident in Hungarian. "
-              "Use a neutral, factual tone, similar in style to article headlines. Output the title only, without quotes or any other string. Do NOT use general categories or thematic titles—always refer to the precise event (e.g., Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon).\n")
+              "Use a neutral, factual tone, similar in style to article headlines. Output a single title only, without quotes or any other string. Do NOT use general categories or thematic titles—always refer to the precise event (e.g., Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon).\n")
 
     response = client.chat.completions.create(model="gpt-4o",
                                               messages=[{"role": "user", "content": prompt}],
