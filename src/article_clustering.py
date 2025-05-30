@@ -211,10 +211,10 @@ def pairwise_article_comparison(article1, article2, processed_pairs_file):
         processed_pairs.append({"articleId1": article1["id"], "articleId2": article2["id"], "result": result})
         with open(processed_pairs_path, "w") as file:
             json.dump(processed_pairs, file, indent=4, ensure_ascii=False)
-
-
+        return result
     except Exception as e:
-        print(f"pairwise article comparison failed: {e}")
+        print(f"pairwise article comparison failed, returning false\n {e}")
+        return False
 
 
 def generate_title_for_a_cluster(cluster):
