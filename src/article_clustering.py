@@ -19,7 +19,7 @@ def load_articles(directory, age_limit=1):
                 hungarian_tz = timezone(timedelta(hours=1))  # Hungarian timezone (CET, UTC+1)
                 article_published_at = datetime.strptime(data["published"].replace("GMT", "+0000"),
                                                          "%a, %d %b %Y %H:%M:%S %z")
-                if (datetime.now(hungarian_tz) - article_published_at).seconds > 3600 * 10:
+                if (datetime.now(hungarian_tz) - article_published_at).days > age_limit:
                     print(f"Skipping article {filename} due to age limit.")
                     continue
                 articles.append(data)  # Assuming each file contains a list of articles
