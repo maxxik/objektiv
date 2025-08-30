@@ -47,7 +47,7 @@
   {
     "name": "PestiSrácok",
     "bias": "Right",
-    "rss_url": "https://pestisracok.hu/feed/"
+    "rss_url": "https://pestisracok.hu/publicapi/hu/rss/pesti_sracok/articles"
   },
   {
     "name": "VálaszOnline",

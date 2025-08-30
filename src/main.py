@@ -17,7 +17,7 @@ if __name__ == "__main__":
     outlets_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../config/outlets.json")
     feeds = load_outlets(outlets_file)
     fetcher = RSSFetcher(feeds)
-    fetcher.fetch()
+    # fetcher.fetch()
 
     # cluster the articles
     run_clustering("../artifacts/articles", "../artifacts/clustered_articles.json", "../artifacts/processed_pairs.json")
