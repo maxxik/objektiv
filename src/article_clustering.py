@@ -16,9 +16,13 @@ def load_articles(directory, age_limit=1):
         if filename.endswith(".json") and not filename.endswith("_raw.json"):
             with open(os.path.join(directory, filename), "r") as file:
                 data = json.load(file)
-                hungarian_tz = timezone(timedelta(hours=1))  # Hungarian timezone (CET, UTC+1)
-                article_published_at = datetime.strptime(data["published"].replace("GMT", "+0000"),
-                                                         "%a, %d %b %Y %H:%M:%S %z")
+                hungarian_tz = timezone(
+                    timedelta(hours=1)
+                )  # Hungarian timezone (CET, UTC+1)
+                article_published_at = datetime.strptime(
+                    data["published"].replace("GMT", "+0000"),
+                    "%a, %d %b %Y %H:%M:%S %z",
+                )
                 if (datetime.now(hungarian_tz) - article_published_at).days > age_limit:
                     print(f"Skipping article {filename} due to age limit.")
                     continue
@@ -35,18 +39,21 @@ def generate_embeddings(articles):
 
     for i, article in enumerate(articles):
         embedding_file = os.path.join(
-            os.path.dirname(os.path.abspath(__file__)), f"../artifacts/embeddings/{article['id']}.json"
+            os.path.dirname(os.path.abspath(__file__)),
+            f"../artifacts/embeddings/{article['id']}.json",
         )
         if os.path.exists(embedding_file):
             with open(embedding_file, "r") as file:
                 cached = json.load(file)
                 embeddings.append(cached["embedding"])
         else:
-            articles_to_embed.append(article['title'] + " " + article['summary'])
+            articles_to_embed.append(article["title"] + " " + article["summary"])
             articles_to_embed_indices.append(i)
 
     if articles_to_embed:
-        response = client.embeddings.create(input=articles_to_embed, model="text-embedding-3-small")
+        response = client.embeddings.create(
+            input=articles_to_embed, model="text-embedding-3-small"
+        )
         print(f"Generated {len(response.data)} new embeddings")
 
         for idx, i in enumerate(articles_to_embed_indices):
@@ -55,11 +62,17 @@ def generate_embeddings(articles):
 
             # Save the embedding to a file
             embedding_file = os.path.join(
-                os.path.dirname(os.path.abspath(__file__)), f"../artifacts/embeddings/{articles[i]['id']}.json"
+                os.path.dirname(os.path.abspath(__file__)),
+                f"../artifacts/embeddings/{articles[i]['id']}.json",
             )
             os.makedirs(os.path.dirname(embedding_file), exist_ok=True)
             with open(embedding_file, "w") as file:
-                json.dump({"id": articles[i]['id'], "embedding": embedding}, file, indent=4, ensure_ascii=False)
+                json.dump(
+                    {"id": articles[i]["id"], "embedding": embedding},
+                    file,
+                    indent=4,
+                    ensure_ascii=False,
+                )
     else:
         print("All embeddings loaded from cache")
 
@@ -78,7 +91,7 @@ def get_semantically_similar_articles(embeddings, articles, threshold=0.8):
     for i in range(len(similarity_matrix)):
         for j in range(i + 1, len(similarity_matrix)):
             if similarity_matrix[i][j] > threshold:
-                similar_articles.append((articles[i]['id'], articles[j]['id']))
+                similar_articles.append((articles[i]["id"], articles[j]["id"]))
 
     return similar_articles, similarity_matrix
 
@@ -162,11 +175,14 @@ def leiden_clustering(similarity_matrix, resolution_parameter=1):
     g.add_edges(edges)
 
     # Assign weights to edges
-    g.es['weight'] = weights
+    g.es["weight"] = weights
 
     # Perform Leiden clustering
     partition = leidenalg.find_partition(
-        g, leidenalg.RBConfigurationVertexPartition, weights=g.es['weight'], resolution_parameter=resolution_parameter
+        g,
+        leidenalg.RBConfigurationVertexPartition,
+        weights=g.es["weight"],
+        resolution_parameter=resolution_parameter,
     )
     groups = np.array(partition.membership)
 
@@ -174,8 +190,11 @@ def leiden_clustering(similarity_matrix, resolution_parameter=1):
 
     return groups
 
+
 def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
-    processed_pairs_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), processed_pairs_file)
+    processed_pairs_path = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), processed_pairs_file
+    )
     pairs_to_compare = []
     processed_pairs = []
     if os.path.exists(processed_pairs_path):
@@ -194,7 +213,9 @@ def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
     print(f"{len(pairs_to_compare)} pairs to compare.")
 
     prompt_template = (
-        "Given the two article excerpts below, rate their similarity from 0 (completely unrelated) to 1 (identical in essence) based on whether they fundamentally describe the same event, incident, or main topic—regardless of differences in wording, detail, or perspective.\n"
+        "Given the two article excerpts below, rate their similarity from 0 (completely unrelated) to 1 (identical in "
+        "essence) based on whether they fundamentally describe the same event, incident, or main topic—regardless of "
+        "differences in wording, detail, or perspective.\n"
         "Focus on the underlying subject, not surface phrasing.\n"
         "If both discuss the same key figure(s), statement, or political development, rate highly (close to 1).\n"
         "If they cover unrelated topics, rate as 0.\n"
@@ -212,32 +233,45 @@ def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
         counter += 1
         article1 = next((article for article in articles if article["id"] == id1), None)
         article2 = next((article for article in articles if article["id"] == id2), None)
-        if article1["title"] == article2["title"] and article1["summary"] == article2["summary"]:
+        if (
+            article1["title"] == article2["title"]
+            and article1["summary"] == article2["summary"]
+        ):
             print(f"Pair {article1['id']} and {article2['id']} are exactly the same.")
-            new_processed_pairs.append({"articleId1": article1["id"], "articleId2": article2["id"], "result": True})
+            new_processed_pairs.append(
+                {
+                    "articleId1": article1["id"],
+                    "articleId2": article2["id"],
+                    "result": True,
+                }
+            )
             continue
         print(f"[{counter}/{total}] Pairwise comparison of articles")
         prompt = prompt_template.format(
             title1=article1["title"],
             summary1=article1["summary"],
             title2=article2["title"],
-            summary2=article2["summary"]
+            summary2=article2["summary"],
         )
 
         try:
-            response = client.chat.completions.create(model="gpt-4.1-mini",
-                                                      messages=[{"role": "user", "content": prompt}],
-                                                      max_tokens=5,
-                                                      temperature=0.7)
+            response = client.chat.completions.create(
+                model="gpt-5-nano",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=5,
+                temperature=0.7,
+            )
             print(f"Prompt: {prompt}")
             result_str = response.choices[0].message.content
             result = float(result_str.strip())
             print(f"Result: {result_str} {result}")
-            new_processed_pairs.append({
-                "articleId1": article1["id"],
-                "articleId2": article2["id"],
-                "result": result
-            })
+            new_processed_pairs.append(
+                {
+                    "articleId1": article1["id"],
+                    "articleId2": article2["id"],
+                    "result": result,
+                }
+            )
         except Exception as e:
             print(f"pairwise article comparison failed, returning false\n {e}")
 
@@ -251,7 +285,10 @@ def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
     matching_matrix = np.zeros((len(articles), len(articles)), dtype=bool)
     article_id_to_index = {article["id"]: idx for idx, article in enumerate(articles)}
     for pair in processed_pairs:
-        if pair["articleId1"] in article_id_to_index and pair["articleId2"] in article_id_to_index:
+        if (
+            pair["articleId1"] in article_id_to_index
+            and pair["articleId2"] in article_id_to_index
+        ):
             i = article_id_to_index[pair["articleId1"]]
             j = article_id_to_index[pair["articleId2"]]
             matching_matrix[i][j] = pair["result"]
@@ -263,27 +300,45 @@ def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
 def generate_title_for_a_cluster(cluster):
     # merge the titles and summaries of the articles in the cluster
     combined_articles = "\n".join(
-        ["Title: " + article["articleTitle"] + "\nSummary: " + article["articleSummary"] for article in
-         cluster["articles"]])
+        [
+            "Title: "
+            + article["articleTitle"]
+            + "\nSummary: "
+            + article["articleSummary"]
+            for article in cluster["articles"]
+        ]
+    )
 
     # Generate a title using OpenAI
-    prompt = (f"Generate a title for the following articles:\n{combined_articles}"
-              "The title must be a clear, objective, descriptive, and concise summary of the specific event or incident in Hungarian. "
-              "Use a neutral, factual tone, similar in style to article headlines. Output a single title only, without quotes or any other string. Do NOT use general categories or thematic titles—always refer to the precise event (e.g., Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon).\n")
+    prompt = (
+        f"Generate a title for the following articles:\n{combined_articles}\n"
+        "The title must be a clear, objective, descriptive, and concise summary of the specific event or "
+        "incident in Hungarian."
+        "Use a neutral, factual tone, similar in style to article headlines. Output a single title only, "
+        "without quotes or any other string. Do NOT use general categories or thematic titles—always refer to "
+        "the precise event (e.g., Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon).\n"
+    )
 
-    response = client.chat.completions.create(model="gpt-4o",
-                                              messages=[{"role": "user", "content": prompt}],
-                                              max_tokens=50,
-                                              temperature=0.7)
+    response = client.chat.completions.create(
+        model="gpt-5-mini",
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=50,
+        temperature=0.7,
+    )
     generated_title = response.choices[0].message.content.strip()
     print(prompt)
     print(f"Generated title: {generated_title}")
     return generated_title
 
 
-def run_clustering(input_directory="../artifacts/articles", output_file="../artifacts/clustered_articles.json",
-                   processed_pairs_file="../artifacts/processed_pairs.json"):
-    input_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), input_directory)
+def run_clustering(
+    input_directory="../artifacts/articles",
+    output_file="../artifacts/clustered_articles.json",
+    processed_pairs_file="../artifacts/processed_pairs.json",
+):
+    input_directory = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), input_directory
+    )
     output_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), output_file)
 
     # Load articles
@@ -293,12 +348,16 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
     embeddings = generate_embeddings(articles)
 
     # Get semantically similar articles
-    similar_articles, similarity_matrix = get_semantically_similar_articles(embeddings, articles, threshold=0.6)
+    similar_articles, similarity_matrix = get_semantically_similar_articles(
+        embeddings, articles, threshold=0.6
+    )
 
     print_similarity_stats(articles, similar_articles)
 
     # Perform pairwise article comparison
-    matching_matrix = compare_articles_pairwise(similar_articles, processed_pairs_file, articles)
+    matching_matrix = compare_articles_pairwise(
+        similar_articles, processed_pairs_file, articles
+    )
 
     # Perform clustering
     labels = leiden_clustering(matching_matrix, resolution_parameter=1)
@@ -310,13 +369,17 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
     clusters = []
     for i, label in enumerate(labels):
         label = str(label)
-        current_article = {"articleId": articles[i]["id"], "articleTitle": articles[i]["title"],
-                           "articleSummary": articles[i]["summary"], "articleOutlet": articles[i]["outlet"],
-                           "articleBias": articles[i]["bias"], "articleUrl": articles[i]["link"],}
+        current_article = {
+            "articleId": articles[i]["id"],
+            "articleTitle": articles[i]["title"],
+            "articleSummary": articles[i]["summary"],
+            "articleOutlet": articles[i]["outlet"],
+            "articleBias": articles[i]["bias"],
+            "articleUrl": articles[i]["link"],
+        }
         # if label is not found among clusterIds
         if not any(cluster["clusterId"] == label for cluster in clusters):
-            clusters.append({"clusterId": label,
-                             "articles": [current_article]})
+            clusters.append({"clusterId": label, "articles": [current_article]})
         else:
             for cluster in clusters:
                 if cluster["clusterId"] == label:
@@ -339,4 +402,3 @@ def run_clustering(input_directory="../artifacts/articles", output_file="../arti
 
 if __name__ == "__main__":
     run_clustering()
-
