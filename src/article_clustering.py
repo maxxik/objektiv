@@ -255,16 +255,21 @@ def compare_articles_pairwise(similar_articles, processed_pairs_file, articles):
         )
 
         try:
-            response = client.chat.completions.create(
+            response = client.responses.create(
                 model="gpt-5-nano",
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=5,
-                temperature=0.7,
+                input=prompt,
+                text={"verbosity": "low"},
+                reasoning={"effort": "minimal"},
             )
             print(f"Prompt: {prompt}")
-            result_str = response.choices[0].message.content
+            result_str = ""
+            for item in response.output:
+                if hasattr(item, "content") and item.content:
+                    for content in item.content:
+                        if hasattr(content, "text"):
+                            result_str += content.text
             result = float(result_str.strip())
-            print(f"Result: {result_str} {result}")
+            print(f"Score: {result}")
             new_processed_pairs.append(
                 {
                     "articleId1": article1["id"],
@@ -319,13 +324,16 @@ def generate_title_for_a_cluster(cluster):
         "the precise event (e.g., Szabó István életműdíjat kapott a 2025-ös Cannes-i Filmfesztiválon).\n"
     )
 
-    response = client.chat.completions.create(
+    response = client.responses.create(
         model="gpt-5-mini",
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=50,
-        temperature=0.7,
+        input=prompt,
     )
-    generated_title = response.choices[0].message.content.strip()
+    generated_title = ""
+    for item in response.output:
+        if hasattr(item, "content"):
+            for content in item.content:
+                if hasattr(content, "text"):
+                    generated_title += content.text
     print(prompt)
     print(f"Generated title: {generated_title}")
     return generated_title
