@@ -331,7 +331,7 @@ def generate_title_for_a_cluster(cluster):
     generated_title = ""
     for item in response.output:
         if hasattr(item, "content"):
-            for content in item.content:
+            for content in item.content and item.content:
                 if hasattr(content, "text"):
                     generated_title += content.text
     print(prompt)
